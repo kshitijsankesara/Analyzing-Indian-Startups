@@ -1,0 +1,850 @@
+name,market ,funding_total_usd ,status,country_code,region,city,funding_rounds,founded_at,founded_month,found_quarter,founded_quarter,founded_year,first_funding_at,last_funding_at,seed,venture,equity_crowdfunding,undisclosed,convertible_note,debt_financing,angel,grant,private_equity,post_ipo_equity,post_ipo_debt,secondary_market,product_crowdfunding,round_A,round_B,round_C,round_D,round_E,round_F,round_G,round_H
+1CLICK, Chat , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/1938,2012-11,4,2012-Q4,1938,10/1/1999,1/26/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21Diamonds, E-Commerce ,6369507,operating,IND,New Delhi,Gurgaon,1,1/1/1969,2012-06,2,2012-Q2,1969,1/1/2000,11/15/2012,0,6369507,0,0,0,0,0,0,0,0,0,0,0,0,0,6369507,0,0,0,0,0
+24x7 Learning, Education ,4000000,operating,IND,Bangalore,Bangalore,1,3/12/1969,2001-01,1,2001-Q1,1969,1/2/2001,11/6/2007,0,4000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3DSoC, Mobile ,2065000,operating,IND,Bangalore,Bangalore,2,1/1/1973,2006-06,2,2006-Q2,1973,1/1/2005,8/1/2010,0,2065000,0,0,0,0,0,0,0,0,0,0,0,1240000,825000,0,0,0,0,0,0
+91Mobiles, Mobile ,1000000,operating,IND,New Delhi,Gurgaon,1,1/1/1978,2010-01,1,2010-Q1,1978,1/6/2005,10/29/2014,1000000,0,0,0,0,0,0,0,0,0,0,0,0,1000000,0,0,0,0,0,0,0
+99Presents, E-Commerce ,"20,000",operating,IND,Vadodara,Vadodara,1,1/1/1980,2012-03,1,2012-Q1,1980,1/14/2005,9/1/2012,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+99tests, Software ,210000,operating,IND,Bangalore,Bangalore,3,1/1/1980,2011-02,1,2011-Q1,1980,7/3/2005,7/22/2013,10000,0,0,0,0,0,200000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A LITTLE WORLD, Finance ,6410000,operating,IND,Mumbai,Mumbai,1,1/1/1980,2000-03,1,2000-Q1,1980,10/4/2005,9/9/2008,0,6410000,0,0,0,0,0,0,0,0,0,0,0,0,6410000,0,0,0,0,0,0
+A.P Avanashiappa Silk, Retail ,"96,932",operating,IND,IND - Other,Tirupur,2,1/1/1984,,,,1984,10/19/2005,8/5/2012,75336,0,0,0,0,21596,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ABC Live, Advertising ,"25,000",closed,IND,Chandigarh,Chandigarh,1,1/1/1985,2007-12,4,2007-Q4,1985,11/16/2005,1/5/2007,0,0,0,0,0,25000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ACB (India) Limited, Mining Technologies ,25090000,operating,IND,New Delhi,Gurgaon,1,1/1/1986,1997-01,1,1997-Q1,1986,1/1/2006,3/31/2008,0,25090000,0,0,0,0,0,0,0,0,0,0,0,0,0,25090000,0,0,0,0,0
+Accentium Web, Curated Web ,2000000,operating,IND,New Delhi,Gurgaon,1,1/1/1988,2007-07,3,2007-Q3,1988,1/1/2006,8/27/2014,0,0,0,0,0,0,2000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Acision, Mobile ,100000000,operating,IND,New Delhi,Gurgaon,1,1/1/1988,1992-01,1,1992-Q1,1988,1/1/2006,10/5/2010,0,0,0,0,0,0,0,0,100000000,0,0,0,0,0,0,0,0,0,0,0,0
+AddressHealth, Health Care , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/1989,2010-01,1,2010-Q1,1989,1/1/2006,6/20/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adhysteria, Classifieds ,"10,000",closed,IND,Mumbai,Mumbai,1,1/1/1991,2007-09,3,2007-Q3,1991,1/1/2006,7/1/2007,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adlabs Imagica,,8180000,operating,IND,IND - Other,Khopoli,1,1/1/1991,,,,1991,1/11/2006,10/28/2014,0,8180000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AdPushup, Apps ,632000,operating,IND,New Delhi,New Delhi,1,1/1/1991,2013-01,1,2013-Q1,1991,3/10/2006,10/29/2014,0,0,0,0,0,0,632000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Affine Analytics, Big Data ,100000,operating,IND,Bangalore,Bangalore,1,1/1/1991,2011-02,1,2011-Q1,1991,4/4/2006,1/1/2012,0,0,0,0,0,0,100000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Affinity, Advertising ,85000000,acquired,IND,Mumbai,Mumbai,2,1/1/1991,2006-01,1,2006-Q1,1991,4/13/2006,1/1/2002,0,85000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agile, Finance Technology ,5740000,operating,IND,Mumbai,Mumbai,1,1/1/1992,,,,1992,4/21/2006,5/1/2011,0,5740000,0,0,0,0,0,0,0,0,0,0,0,5740000,0,0,0,0,0,0,0
+Airwoot, Analytics , NA   ,operating,IND,New Delhi,New Delhi,1,1/1/1992,2012-01,1,2012-Q1,1992,6/7/2006,8/26/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ajahn, Education ,100000,operating,IND,Hyderabad,Hyderabad,1,1/1/1992,2013-01,1,2013-Q1,1992,6/12/2006,1/18/2014,100000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Akosha, Mobile ,5200000,operating,IND,New Delhi,New Delhi,2,1/1/1992,2010-06,2,2010-Q2,1992,6/22/2006,7/1/2014,200000,5000000,0,0,0,0,0,0,0,0,0,0,0,5000000,0,0,0,0,0,0,0
+Allied Digital Services, Consulting ,175000,operating,IND,Mumbai,Mumbai,1,1/1/1992,1995-01,1,1995-Q1,1992,6/29/2006,9/28/2010,0,175000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AllSchoolStuff.com, Retail ,1500000,operating,IND,New Delhi,Gurgaon,1,1/1/1992,2011-09,3,2011-Q3,1992,7/1/2006,9/1/2012,1500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AlphaBeta Labs, Education ,"40,000",operating,IND,Bangalore,Bangalore,1,1/1/1992,2010-01,1,2010-Q1,1992,8/2/2006,7/17/2012,40000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alsbridge, BPO Services , NA   ,,IND,New Delhi,Gurgaon,1,1/1/1993,2003-01,1,2003-Q1,1993,11/13/2006,1/8/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Althea Systems, Hardware + Software ,3000000,operating,IND,Bangalore,Bangalore,1,1/1/1993,2009-01,1,2009-Q1,1993,11/15/2006,11/17/2010,0,3000000,0,0,0,0,0,0,0,0,0,0,0,3000000,0,0,0,0,0,0,0
+Amagi Media Labs, Advertising ,5500000,operating,IND,Bangalore,Bangalore,1,1/1/1994,2008-01,1,2008-Q1,1994,12/1/2006,6/17/2013,0,5500000,0,0,0,0,0,0,0,0,0,0,0,5500000,0,0,0,0,0,0,0
+Ampere,, NA   ,operating,IND,Coimbatore,Coimbatore,1,1/1/1994,,,,1994,12/1/2006,1/1/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AngelPrime, Finance , NA   ,operating,IND,Bangalore,Bengaluru,1,1/1/1994,,,,1994,12/1/2006,10/24/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aniika, Handmade ,500000,operating,IND,Bangalore,Bangalore,2,6/1/1994,2011-10,4,2011-Q4,1994,12/14/2006,7/30/2012,0,0,0,0,0,0,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Annapurna Microfinace, Finance ,5000000,operating,IND,Bhubaneswar,Bhubaneswar,1,1/1/1995,2009-01,1,2009-Q1,1995,12/14/2006,3/26/2014,0,5000000,0,0,0,0,0,0,0,0,0,0,0,0,5000000,0,0,0,0,0,0
+AntFarm, Fitness , NA   ,operating,IND,Mumbai,Mumbai,1,1/1/1995,2012-01,1,2012-Q1,1995,12/22/2006,8/6/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anunta Technology Management Services, Enterprise Software ,3000000,operating,IND,Mumbai,Mumbai,1,4/14/1995,2011-01,1,2011-Q1,1995,12/23/2006,2/14/2013,0,3000000,0,0,0,0,0,0,0,0,0,0,0,3000000,0,0,0,0,0,0,0
+Apalya, Entertainment ,18500000,operating,IND,Hyderabad,Hyderabad,3,1/1/1996,,,,1996,1/1/2007,12/1/2012,0,18500000,0,0,0,0,0,0,0,0,0,0,0,3000000,7500000,8000000,0,0,0,0,0
+Apartment Adda, Price Comparison , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/1996,2008-11,4,2008-Q4,1996,1/1/2007,11/14/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ApnaPaisa, Credit ,17200000,operating,IND,Mumbai,Mumbai,2,1/1/1996,2007-01,1,2007-Q1,1996,1/1/2007,12/1/2007,0,17200000,0,0,0,0,0,0,0,0,0,0,0,0,15000000,0,0,0,0,0,0
+Appdra, Software ,1500000,operating,IND,Bangalore,Bangalore,1,1/1/1996,2013-01,1,2013-Q1,1996,1/1/2007,7/22/2014,0,1500000,0,0,0,0,0,0,0,0,0,0,0,1500000,0,0,0,0,0,0,0
+AppLabs, Software ,10000000,acquired,IND,Hyderabad,Hyderabad,1,1/1/1996,2001-01,1,2001-Q1,1996,1/1/2007,6/29/2006,0,10000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Applect Learning Systems Pvt. Ltd., Education ,1600000,operating,IND,New Delhi,New Delhi,1,1/1/1996,2008-10,4,2008-Q4,1996,1/5/2007,12/4/2013,0,1600000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Appsdaily Solutions, Software ,5000000,operating,IND,Mumbai,Mumbai,1,1/1/1996,2008-01,1,2008-Q1,1996,1/16/2007,4/10/2014,0,5000000,0,0,0,0,0,0,0,0,0,0,0,0,5000000,0,0,0,0,0,0
+AppSurfer, Curated Web ,200000,operating,IND,Pune,Pune,1,4/1/1996,2011-01,1,2011-Q1,1996,1/30/2007,8/15/2012,200000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ariisto, Real Estate ,54000000,operating,IND,IND - Other,Andheri,2,1/1/1997,2006-01,1,2006-Q1,1997,2/1/2007,1/24/2014,0,54000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arohan Financial, Finance ,3500000,operating,IND,Kolkata,Kolkata,1,1/1/1997,2006-01,1,2006-Q1,1997,3/1/2007,10/3/2013,0,3500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Array Storm, Consumer Electronics , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/1997,,,,1997,3/3/2007,7/9/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ArthaYantra, Personal Finance , NA   ,operating,IND,Hyderabad,Hyderabad,1,1/1/1997,,,,1997,3/7/2007,11/7/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Artoo, Technology ,130000,operating,IND,Bangalore,Bangalore,2,1/1/1997,2010-05,2,2010-Q2,1997,3/10/2007,12/12/2013,130000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aspiring Minds, Education , NA   ,operating,IND,New Delhi,Gurgaon,1,1/1/1997,,,,1997,3/14/2007,11/9/2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+atOnePlace.com, Real Estate ,250000,acquired,IND,New Delhi,Noida,1,1/1/1997,2006-06,2,2006-Q2,1997,3/20/2007,9/20/2008,0,0,0,0,0,0,250000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Atria Brindavan Power, Clean Technology ,8600000,operating,IND,Bangalore,Bangalore,1,4/14/1997,2000-01,1,2000-Q1,1997,3/29/2007,6/13/2013,0,0,0,0,0,0,0,0,8600000,0,0,0,0,0,0,0,0,0,0,0,0
+Attero, Clean Technology ,28600000,operating,IND,New Delhi,Noida,4,11/14/1997,2007-01,1,2007-Q1,1997,4/1/2007,8/28/2014,2500000,26100000,0,0,0,0,0,0,0,0,0,0,0,6300000,3300000,16500000,0,0,0,0,0
+Au FINANCIERS, E-Commerce ,21000000,operating,IND,Jaipur,Jaipur,1,1/1/1998,1996-01,1,1996-Q1,1998,5/1/2007,4/15/2014,0,21000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AudioCompass, Guides ,400000,operating,IND,Mumbai,Mumbai,1,1/1/1998,2009-01,1,2009-Q1,1998,5/4/2007,2/18/2014,400000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aujas Networks, Security ,11000000,operating,IND,Bangalore,Bangalore,3,1/1/1998,2008-01,1,2008-Q1,1998,5/7/2007,11/27/2013,0,11000000,0,0,0,0,0,0,0,0,0,0,0,5600000,5400000,0,0,0,0,0,0
+Auro Mira Energy, Clean Technology ,21000000,operating,IND,Chennai,Chennai,1,1/1/1999,,,,1999,5/7/2007,9/28/2010,0,21000000,0,0,0,0,0,0,0,0,0,0,0,0,21000000,0,0,0,0,0,0
+authorSTREAM.com, Curated Web ,5000000,operating,IND,Chandigarh,Chandigarh,1,1/1/1999,2007-05,2,2007-Q2,1999,5/11/2007,12/15/2010,0,5000000,0,0,0,0,0,0,0,0,0,0,0,5000000,0,0,0,0,0,0,0
+Avanse Financial Services, Education ,2300000,operating,IND,Mumbai,Mumbai,1,1/1/1999,2012-11,4,2012-Q4,1999,6/27/2007,8/7/2013,0,0,0,0,0,0,0,0,2300000,0,0,0,0,0,0,0,0,0,0,0,0
+Avantha, Hardware + Software ,150000000,operating,IND,New Delhi,New Delhi,1,1/1/1999,,,,1999,7/1/2007,12/16/2013,0,0,0,0,0,0,0,0,150000000,0,0,0,0,0,0,0,0,0,0,0,0
+Avaz, Neuroscience ,550000,operating,IND,Chennai,Chennai,1,1/1/1999,2009-01,1,2009-Q1,1999,7/11/2007,4/22/2014,550000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avesthagen, Biotechnology ,5530000,operating,IND,Bangalore,Bangalore,1,1/1/1999,,,,1999,7/26/2007,5/7/2007,0,5530000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AxisRooms, Software , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/1999,2009-01,1,2009-Q1,1999,8/9/2007,9/24/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Azure Power, Clean Technology ,32200000,operating,IND,New Delhi,New Delhi,5,1/1/1999,2008-01,1,2008-Q1,1999,10/3/2007,4/18/2013,0,32200000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8600000,10000000,0,0,0
+Babajob, Curated Web , NA   ,operating,IND,Bangalore,Bangalore,1,4/1/1999,2007-08,3,2007-Q3,1999,10/4/2007,6/1/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Babyoye, E-Commerce ,2500000,operating,IND,Mumbai,Mumbai,2,1/1/2000,2010-06,2,2010-Q2,2000,10/16/2007,12/1/2011,0,2500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BankBazaar.com, Insurance ,19000000,operating,IND,Chennai,Chennai,2,1/1/2000,2008-07,3,2008-Q3,2000,11/6/2007,1/13/2014,0,19000000,0,0,0,0,0,0,0,0,0,0,0,6000000,13000000,0,0,0,0,0,0
+BankerBay Technologies, Finance ,1000000,operating,IND,Bangalore,Bangalore,1,1/1/2000,2012-01,1,2012-Q1,2000,11/20/2007,5/2/2014,0,0,0,0,0,0,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bay Talkitec (P), Messaging ,2500000,operating,IND,Chennai,Chennai,1,1/1/2000,1991-01,1,1991-Q1,2000,11/29/2007,1/30/2008,0,2500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bedbathmore.com, E-Commerce , NA   ,operating,IND,Mumbai,Mumbai,1,1/1/2000,2010-01,1,2010-Q1,2000,12/1/2007,5/29/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+beStylish.com, Shoes ,10000000,,IND,New Delhi,Gurgaon,1,1/1/2000,2011-05,2,2011-Q2,2000,12/1/2007,6/1/2012,0,10000000,0,0,0,0,0,0,0,0,0,0,0,10000000,0,0,0,0,0,0,0
+Bharat Matrimony, Match-Making ,11750000,operating,IND,Chennai,Chennai,1,1/1/2000,1969-03,1,1969-Q1,2000,12/5/2007,2/5/2008,0,11750000,0,0,0,0,0,0,0,0,0,0,0,0,11750000,0,0,0,0,0,0
+BIBA Apparels,,48600000,operating,IND,New Delhi,New Delhi,1,1/1/2000,1988-01,1,1988-Q1,2000,1/1/2008,12/5/2013,0,48600000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bigbasket.com, E-Commerce ,35799999,operating,IND,Bangalore,Bangalore,2,3/2/2000,2011-10,4,2011-Q4,2000,1/1/2008,9/12/2014,0,35799999,0,0,0,0,0,0,0,0,0,0,0,0,32799999,0,0,0,0,0,0
+Bijlipay, E-Commerce ,2000000,operating,IND,Chennai,Chennai,1,12/23/2000,2007-01,1,2007-Q1,2000,1/1/2008,10/25/2014,0,2000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Billdesk, Curated Web , NA   ,operating,IND,Ahmedabad,Ahmedabad,1,1/1/2001,2000-01,1,2000-Q1,2001,1/1/2008,4/4/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Biotz, Hardware ,"35,000",operating,IND,New Delhi,New Delhi,2,1/1/2001,2012-08,3,2012-Q3,2001,1/1/2008,6/4/2014,0,0,0,0,0,0,35000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Birds Eye Systems, Health Care ,320000,operating,IND,Mumbai,Mumbai,2,1/1/2001,2010-01,1,2010-Q1,2001,1/1/2008,9/30/2014,320000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Biscoot, Games , NA   ,operating,IND,Mumbai,Mumbai,1,1/1/2001,2012-11,4,2012-Q4,2001,1/1/2008,10/31/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BitX, Financial Services ,800000,operating,IND,Mumbai,Mumbai,1,1/1/2001,2013-01,1,2013-Q1,2001,1/1/2008,8/19/2014,800000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bizeso Services Private Limited, Legal , NA   ,operating,IND,New Delhi,New Delhi,1,1/1/2001,2011-07,3,2011-Q3,2001,1/7/2008,9/25/2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bizsol, Software ,"50,000",operating,IND,Chennai,Chennai,1,1/1/2001,2011-02,1,2011-Q1,2001,1/13/2008,2/1/2011,50000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BlackBamboozStudio,,"19,889",operating,IND,Guwahati,Guwahati,1,6/1/2001,2012-01,1,2012-Q1,2001,1/30/2008,8/1/2013,19889,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blowhorn, Marketplaces , NA   ,operating,IND,Bangalore,Bangalore,1,7/1/2001,2013-01,1,2013-Q1,2001,2/1/2008,11/13/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blue Bus Tees, E-Commerce , NA   ,operating,IND,Mumbai,Mumbai,1,1/1/2002,2008-01,1,2008-Q1,2002,2/1/2008,7/25/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bluegape Lifestyle, E-Commerce ,270000,operating,IND,New Delhi,New Delhi,3,1/1/2002,2011-12,4,2011-Q4,2002,2/1/2008,1/8/2014,20000,250000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bluestone.com, Curated Web ,15000000,operating,IND,Bangalore,Bangalore,2,1/1/2002,2011-01,1,2011-Q1,2002,2/2/2008,3/18/2014,0,15000000,0,0,0,0,0,0,0,0,0,0,0,5000000,10000000,0,0,0,0,0,0
+Bodhicrew Services Private Limited, Training , NA   ,operating,IND,New Delhi,New Delhi,1,1/1/2002,,,,2002,2/5/2008,2/7/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bookmycab, Public Transportation ,6500000,operating,IND,Mumbai,Mumbai,1,1/1/2002,,,,2002,2/8/2008,2/19/2014,0,6500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BookMyForex.com, E-Commerce , NA   ,operating,IND,New Delhi,Gurgaon,1,1/1/2003,2012-07,3,2012-Q3,2003,2/12/2008,7/1/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bookmytrainings PVT Ltd, Education , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/2003,2011-01,1,2011-Q1,2003,3/27/2008,6/4/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Boond, Product Development Services , NA   ,operating,IND,New Delhi,New Delhi,1,1/1/2003,,,,2003,3/31/2008,8/20/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brainwave Education, Education ,"40,000",operating,IND,Bangalore,Bangalore,1,3/15/2003,2012-01,1,2012-Q1,2003,4/1/2008,11/19/2013,40000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brandpotion, Advertising , NA   ,operating,IND,Mumbai,Mumbai,1,12/1/2003,2009-01,1,2009-Q1,2003,4/1/2008,1/1/2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Browntape, E-Commerce ,"60,000",operating,IND,Goa,Goa,3,1/1/2004,2012-01,1,2012-Q1,2004,4/6/2008,4/4/2014,0,0,0,0,0,0,60000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BTI Payments, Curated Web ,22400000,operating,IND,Bangalore,Bangalore,1,1/1/2004,1991-01,1,1991-Q1,2004,4/10/2008,11/29/2013,0,22400000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+burrp!, Local ,2150000,operating,IND,Mumbai,Mumbai,2,1/1/2004,2006-03,1,2006-Q1,2004,4/18/2008,11/1/2007,150000,2000000,0,0,0,0,0,0,0,0,0,0,0,2000000,0,0,0,0,0,0,0
+Buyt.In, Search ,1000000,operating,IND,New Delhi,New Delhi,1,1/1/2004,2012-08,3,2012-Q3,2004,4/28/2008,6/26/2013,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BVG India, Consulting , NA   ,operating,IND,Pune,Pune,1,1/1/2004,,,,2004,5/1/2008,9/30/2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Callystro, Mobile Games ,"36,000",operating,IND,Mangalore,Mangalore,1,1/1/2004,2012-01,1,2012-Q1,2004,5/2/2008,3/1/2013,36000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Campus Diaries, Education ,175000,operating,IND,Bangalore,Bangalore,1,1/1/2004,2012-01,1,2012-Q1,2004,5/14/2008,3/14/2014,175000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Canvera Digital Technologies, Software ,12153000,operating,IND,Bangalore,Bangalore,6,1/1/2004,2007-01,1,2007-Q1,2004,6/16/2008,10/22/2014,0,10513000,0,1640000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capital Float, Financial Services ,3000000,operating,IND,Bangalore,Bangalore,2,6/1/2004,2013-01,1,2013-Q1,2004,6/18/2008,8/5/2014,3000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Capricorn Food Products India, Hospitality ,10000000,operating,IND,Chennai,Chennai,1,12/14/2004,1998-01,1,1998-Q1,2004,7/3/2008,7/22/2013,0,0,0,0,0,0,0,0,10000000,0,0,0,0,0,0,0,0,0,0,0,0
+Captronic Systems, Manufacturing ,3318000,operating,IND,Bangalore,Bangalore,1,1/1/2005,,,,2005,7/8/2008,3/29/2012,0,3318000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CaptureSolar Energy,,125000000,operating,IND,Pune,Pune,1,1/1/2005,2013-01,1,2013-Q1,2005,7/25/2008,6/1/2014,0,125000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CaratLane, E-Commerce ,21000000,operating,IND,Chennai,Chennai,2,1/1/2005,2008-10,4,2008-Q4,2005,8/1/2008,5/13/2013,0,21000000,0,0,0,0,0,0,0,0,0,0,0,6000000,0,15000000,0,0,0,0,0
+Cardback, Mobile ,170000,operating,IND,New Delhi,New Delhi,1,1/1/2005,2012-08,3,2012-Q3,2005,8/8/2008,6/27/2014,0,170000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Careers360, Education , NA   ,operating,IND,Delhi,Delhi,1,1/1/2005,2008-01,1,2008-Q1,2005,8/12/2008,6/16/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CarTrade, Motors ,30200000,operating,IND,Mumbai,Mumbai,1,1/1/2005,2009-01,1,2009-Q1,2005,9/4/2008,10/13/2014,0,30200000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CarWale, E-Commerce ,7000000,acquired,IND,Mumbai,Mumbai,2,1/1/2005,2005-01,1,2005-Q1,2005,9/9/2008,11/5/2008,0,7000000,0,0,0,0,0,0,0,0,0,0,0,7000000,0,0,0,0,0,0,0
+Casa Grande, Real Estate ,9500000,operating,IND,Chennai,Chennai,1,1/1/2005,2004-01,1,2004-Q1,2005,9/11/2008,6/17/2013,0,9500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Catacomb Technologies, Software ,"10,000",operating,IND,Cochin,Cochin,1,1/1/2005,2013-04,2,2013-Q2,2005,9/17/2008,8/31/2013,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Catapooolt, Games , NA   ,operating,IND,Mumbai,Mumbai,1,1/1/2005,,,,2005,9/20/2008,4/7/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cbazaar.com,, NA   ,operating,IND,Chennai,Chennai,1,1/1/2005,,,,2005,9/30/2008,11/24/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CE Info Systems, Software ,34000000,operating,IND,New Delhi,New Delhi,2,3/11/2005,1992-01,1,1992-Q1,2005,10/23/2008,2/15/2009,0,34000000,0,0,0,0,0,0,0,0,0,0,0,0,25000000,9000000,0,0,0,0,0
+Cedar Books,,1000000,operating,IND,New Delhi,New Delhi,1,9/1/2005,2007-01,1,2007-Q1,2005,11/6/2008,12/1/2012,0,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Celon Laboratories, Biotechnology ,15800000,operating,IND,Hyderabad,Hyderabad,1,1/1/2006,2007-01,1,2007-Q1,2006,11/10/2008,10/8/2010,0,15800000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Centre for Sight, Biotechnology ,5000000,operating,IND,New Delhi,New Delhi,1,1/1/2006,1996-01,1,1996-Q1,2006,11/15/2008,7/3/2013,0,5000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CEON Solutions Pvt, Education ,688000,operating,IND,IND - Other,Nasrapur,1,1/1/2006,2004-01,1,2004-Q1,2006,11/18/2008,3/20/2007,0,688000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cerana Beverages, Wine And Spirits , NA   ,operating,IND,IND - Other,,1,1/1/2006,,,,2006,11/26/2008,6/13/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CESC, Utilities ,80000000,operating,IND,Kolkata,Kolkata,1,1/1/2006,,,,2006,11/26/2008,10/29/2014,0,80000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chakpak Media, News ,5000000,operating,IND,Bangalore,Bangalore,1,1/1/2006,,,,2006,12/20/2008,12/22/2008,0,5000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Channel Mentor IT,,286509,operating,IND,Bangalore,Bangalore,1,1/1/2006,,,,2006,12/22/2008,4/1/2013,0,286509,0,0,0,0,0,0,0,0,0,0,0,286509,0,0,0,0,0,0,0
+Chumbak, E-Commerce ,2000000,operating,IND,Bangalore,Bangalore,2,1/1/2006,2009-09,3,2009-Q3,2006,1/1/2009,5/20/2014,2000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cians Analytics, Outsourcing ,2000000,operating,IND,New Delhi,Gurgaon,1,1/1/2006,2009-09,3,2009-Q3,2006,1/1/2009,9/1/2009,0,0,0,0,0,0,2000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CircuitSutra Technologies, Semiconductors ,198000,operating,IND,New Delhi,Noida,1,1/1/2006,2005-01,1,2005-Q1,2006,1/1/2009,1/14/2010,0,198000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citrus, E-Commerce ,7300000,operating,IND,Mumbai,Mumbai,2,1/1/2006,2011-01,1,2011-Q1,2006,1/1/2009,12/6/2013,0,7300000,0,0,0,0,0,0,0,0,0,0,0,0,5500000,0,0,0,0,0,0
+Claro Energy, Clean Technology , NA   ,operating,IND,Delhi,Delhi,1,1/1/2006,2011-01,1,2011-Q1,2006,1/14/2009,10/22/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Classteacher Learning Systems, Education ,15000000,operating,IND,New Delhi,Gurgaon,1,1/1/2006,1999-01,1,1999-Q1,2006,1/14/2009,6/27/2011,0,15000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clear-Data Analytics, Consulting ,100000,operating,IND,New Delhi,Noida,1,1/1/2006,2013-05,2,2013-Q2,2006,2/12/2009,5/15/2013,100000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ClearTax, Finance ,120000,operating,IND,Delhi,Delhi,1,1/1/2006,,,,2006,3/31/2009,7/16/2014,120000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cleartrip, Travel ,56400000,operating,IND,Mumbai,Mumbai,4,1/1/2006,2006-07,3,2006-Q3,2006,5/1/2009,5/12/2014,0,56400000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clonect Solutions, Enterprises ,246517,operating,IND,Bangalore,Bangalore,1,1/1/2006,,,,2006,5/1/2009,9/19/2014,246517,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cloud Amenity, Consulting , NA   ,operating,IND,Chennai,Chennai,1,1/1/2006,2013-05,2,2013-Q2,2006,6/1/2009,6/6/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CoCubes.com, Technology , NA   ,operating,IND,New Delhi,Gurgaon,1,1/1/2006,2007-08,3,2007-Q3,2006,6/8/2009,5/1/2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Codelearn, E-Commerce ,150000,operating,IND,Bangalore,Bangalore,1,3/15/2006,2012-01,1,2012-Q1,2006,8/13/2009,12/1/2012,150000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CodeNxt Web Technologies Private Limited, Consulting ,"32,848",operating,IND,Ahmedabad,Ahmedabad,2,6/1/2006,2010-01,1,2010-Q1,2006,8/13/2009,1/1/2014,8595,0,0,0,0,0,0,0,24253,0,0,0,0,0,0,0,0,0,0,0,0
+Collisionable, Entrepreneur ,"16,500",operating,IND,New Delhi,New Delhi,1,6/3/2006,2013-03,1,2013-Q1,2006,8/13/2009,9/5/2013,16500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Comat Technologies,,25000000,closed,IND,Bangalore,Bangalore,3,6/26/2006,1996-01,1,1996-Q1,2006,8/13/2009,10/1/2008,0,25000000,0,0,0,0,0,0,0,0,0,0,0,0,6000000,15000000,0,0,0,0,0
+CommonFloor, Real Estate ,47900000,operating,IND,Bangalore,Bangalore,3,7/1/2006,2007-01,1,2007-Q1,2006,8/13/2009,9/24/2014,0,47900000,0,0,0,0,0,0,0,0,0,0,0,0,0,7500000,10400000,30000000,0,0,0
+ConnectM Technology Solutions, Mobility ,10000000,operating,IND,Bangalore,Bangalore,2,7/4/2006,2007-01,1,2007-Q1,2006,9/1/2009,8/1/2010,0,10000000,0,0,0,0,0,0,0,0,0,0,0,6000000,4000000,0,0,0,0,0,0
+Cooolio Online, Software ,210000,operating,IND,Bangalore,Bangalore,1,8/1/2006,2010-04,2,2010-Q2,2006,9/1/2009,9/30/2013,210000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cooptions Technologies, Software ,10000000,closed,IND,Hyderabad,Hyderabad,1,8/1/2006,1999-01,1,1999-Q1,2006,9/1/2009,11/23/2009,0,10000000,0,0,0,0,0,0,0,0,0,0,0,0,10000000,0,0,0,0,0,0
+Core Diagnostics, Biotechnology ,5000000,operating,IND,New Delhi,Gurgaon,1,9/1/2006,,,,2006,9/4/2009,7/1/2012,0,5000000,0,0,0,0,0,0,0,0,0,0,0,5000000,0,0,0,0,0,0,0
+CostPrize, E-Commerce ,200000,operating,IND,Bangalore,Bangalore,2,9/1/2006,2011-01,1,2011-Q1,2006,10/1/2009,11/11/2014,0,0,0,0,0,0,200000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covacsis, Services ,450000,operating,IND,Mumbai,Mumbai,3,10/1/2006,2009-01,1,2009-Q1,2006,10/1/2009,6/24/2014,0,450000,0,0,0,0,0,0,0,0,0,0,0,450000,0,0,0,0,0,0,0
+Craftsvilla, E-Commerce ,1838042,operating,IND,Mumbai,Mumbai,3,10/12/2006,2011-01,1,2011-Q1,2006,10/15/2009,6/1/2014,0,1838042,0,0,0,0,0,0,0,0,0,0,0,1500000,338042,0,0,0,0,0,0
+Credii, Software ,"90,000",operating,IND,Bangalore,Bangalore,3,12/12/2006,2011-07,3,2011-Q3,2006,11/1/2009,5/1/2013,90000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crispify, Video ,"40,000",operating,IND,Bangalore,Bangalore,1,12/29/2006,2013-05,2,2013-Q2,2006,11/23/2009,7/1/2013,0,0,0,0,0,0,0,40000,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crispy Games Private Limited, Games ,"40,000",operating,IND,Mumbai,Mumbai,1,1/1/2007,2011-01,1,2011-Q1,2007,11/25/2009,3/13/2013,40000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CRMnext, Software ,7003500,operating,IND,Mumbai,Mumbai,1,1/1/2007,2002-01,1,2002-Q1,2007,12/2/2009,5/6/2014,0,7003500,0,0,0,0,0,0,0,0,0,0,0,7003500,0,0,0,0,0,0,0
+CropIn Technologies, Mobility , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/2007,2010-01,1,2010-Q1,2007,12/16/2009,3/26/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crude Area, Product Design ,115015,operating,IND,Mumbai,Mumbai,2,1/1/2007,2012-11,4,2012-Q4,2007,1/1/2010,8/1/2013,115015,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cubicle, Consulting ,"40,000",operating,IND,Mumbai,Mumbai,1,1/1/2007,,,,2007,1/1/2010,12/16/2013,40000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cubito,, NA   ,operating,IND,Bangalore,Bangalore,2,1/1/2007,2012-01,1,2012-Q1,2007,1/1/2010,9/23/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cultivate IT Solutions & Management Pvt. Ltd., Software ,"20,000",closed,IND,Ghaziabad,Ghaziabad,1,1/1/2007,2010-01,1,2010-Q1,2007,1/1/2010,3/31/2010,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Culture Machine, Entertainment ,3500000,operating,IND,Mumbai,Mumbai,1,1/1/2007,2013-01,1,2013-Q1,2007,1/1/2010,9/1/2014,0,3500000,0,0,0,0,0,0,0,0,0,0,0,3500000,0,0,0,0,0,0,0
+CultureAlley, Facebook Applications ,345000,operating,IND,Jaipur,Jaipur,3,1/1/2007,2012-12,4,2012-Q4,2007,1/5/2010,4/1/2014,0,0,0,0,0,0,345000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CURA Healthcare, Medical Devices ,15000000,operating,IND,Chennai,Chennai,2,1/1/2007,2001-07,3,2001-Q3,2007,1/12/2010,6/11/2014,0,15000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Curves, Health and Wellness , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/2007,,,,2007,1/14/2010,9/11/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CustomerXPs Software, Software ,4000000,operating,IND,Bangalore,Bangalore,1,1/1/2007,2006-12,4,2006-Q4,2007,1/15/2010,6/14/2011,0,4000000,0,0,0,0,0,0,0,0,0,0,0,4000000,0,0,0,0,0,0,0
+Cygnus Medicare, Health and Wellness ,9760000,operating,IND,New Delhi,New Delhi,1,1/1/2007,2011-01,1,2011-Q1,2007,1/20/2010,10/17/2014,0,9760000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DailyObjects.com, Fashion , NA   ,operating,IND,New Delhi,New Delhi,1,1/1/2007,2012-01,1,2012-Q1,2007,1/28/2010,1/1/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dataresolve Technologies, Security ,"20,000",operating,IND,Kolkata,Kolkata,2,1/1/2007,2008-08,3,2008-Q3,2007,1/29/2010,1/6/2011,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dateIITians, Women ,"20,000",operating,IND,Bangalore,Bangalore,1,1/1/2007,2012-02,1,2012-Q1,2007,3/3/2010,12/28/2011,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DealsAndYou, Group Buying ,18500000,operating,IND,New Delhi,Gurgaon,2,1/1/2007,2010-01,1,2010-Q1,2007,3/31/2010,11/1/2011,0,18500000,0,0,0,0,0,0,0,0,0,0,0,1500000,17000000,0,0,0,0,0,0
+DecideQuick, Social Media ,100000,operating,IND,Trivandrum,Trivandrum,1,1/1/2007,2011-11,4,2011-Q4,2007,3/31/2010,1/14/2012,100000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deck App Technologies, Enterprise Software ,600000,operating,IND,Bangalore,Bangalore,1,1/1/2007,2012-06,2,2012-Q2,2007,4/1/2010,12/16/2013,600000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Delhivery, Supply Chain Management ,42500000,operating,IND,New Delhi,Gurgaon,3,1/1/2007,2011-01,1,2011-Q1,2007,5/7/2010,9/8/2014,0,42500000,0,0,0,0,0,0,0,0,0,0,0,1500000,6000000,35000000,0,0,0,0,0
+DeliveryChef.in, E-Commerce , NA   ,operating,IND,Mumbai,Mumbai,1,1/1/2007,2010-01,1,2010-Q1,2007,5/16/2010,11/12/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Delyver.com, Online Shopping ,1000000,operating,IND,Bangalore,Bangalore,1,1/1/2007,2010-03,1,2010-Q1,2007,6/23/2010,11/28/2014,0,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Denty's, Dental ,4500000,operating,IND,Hyderabad,Hyderabad,1,1/1/2007,,,,2007,7/1/2010,5/5/2014,0,4500000,0,0,0,0,0,0,0,0,0,0,0,4500000,0,0,0,0,0,0,0
+DesiCrew Solutions, Education ,1200000,operating,IND,Chennai,Chennai,1,1/1/2007,2007-02,1,2007-Q1,2007,7/1/2010,1/1/2012,0,1200000,0,0,0,0,0,0,0,0,0,0,0,0,1200000,0,0,0,0,0,0
+Dexetra, Android ,1200000,operating,IND,Cochin,Cochin,2,1/1/2007,2010-04,2,2010-Q2,2007,7/7/2010,1/31/2013,200000,1000000,0,0,0,0,0,0,0,0,0,0,0,1000000,0,0,0,0,0,0,0
+Diabeto, Mobile ,"40,000",operating,IND,Mumbai,Mumbai,1,1/1/2007,2012-01,1,2012-Q1,2007,7/8/2010,11/26/2012,40000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Diditz, Social Media , NA   ,closed,IND,New Delhi,New Delhi,1,1/1/2007,2008-01,1,2008-Q1,2007,7/19/2010,1/1/2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Digital Music India, Music ,4500000,operating,IND,Mumbai,Mumbai,1,1/1/2007,2004-01,1,2004-Q1,2007,8/1/2010,12/23/2006,0,4500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dimensions IT Infrastructure Solutions, E-Commerce , NA   ,operating,IND,Pune,Pune,1,1/1/2007,2011-05,2,2011-Q2,2007,8/1/2010,11/2/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dineout, Curated Web , NA   ,operating,IND,Delhi,Delhi,1,2/1/2007,,,,2007,8/18/2010,1/24/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Disruptive By Design, Social Media ,"10,000",operating,IND,Kolkata,Kolkata,1,2/8/2007,2011-05,2,2011-Q2,2007,8/18/2010,5/1/2011,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dixon Technologies, Hardware + Software ,9350000,operating,IND,New Delhi,Noida,1,5/1/2007,,,,2007,8/26/2010,4/28/2008,0,9350000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DoctorC, Doctors ,410000,operating,IND,Hyderabad,Hyderabad,1,5/1/2007,2013-10,4,2013-Q4,2007,8/30/2010,9/16/2014,410000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DocTree, Health Care , NA   ,operating,IND,Bangalore,Bangalore,2,5/4/2007,,,,2007,9/8/2010,2/27/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DogSpot, Pets ,5000000,operating,IND,New Delhi,Gurgaon,1,5/5/2007,2007-01,1,2007-Q1,2007,9/9/2010,12/13/2013,0,5000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dr Lal PathLabs, Biotechnology , NA   ,operating,IND,Haryana,Haryana,1,5/11/2007,,,,2007,9/15/2010,8/26/2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e Health Access, Health and Wellness ,560000,operating,IND,Hyderabad,Hyderabad,1,6/21/2007,2013-12,4,2013-Q4,2007,9/21/2010,2/7/2014,560000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+E2E Networks, Cloud Computing ,176605,operating,IND,Faridabad,Faridabad,3,6/30/2007,2008-06,2,2008-Q2,2007,9/28/2010,6/30/2013,176605,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ease My Sell, Freelancers ,200000,operating,IND,Mumbai,Mumbai,1,7/25/2007,2012-03,1,2012-Q1,2007,9/28/2010,6/4/2012,200000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eashmart, Mobile , NA   ,operating,IND,Delhi,Delhi,1,8/1/2007,,,,2007,9/28/2010,1/31/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Easy Square Feet, Real Estate , NA   ,operating,IND,Bangalore,Bangalore,1,8/1/2007,2009-01,1,2009-Q1,2007,10/5/2010,8/13/2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EasyLink, Web Hosting ,5400000,operating,IND,Chennai,Chennai,1,8/27/2007,1995-04,2,1995-Q2,2007,10/5/2010,4/13/2006,0,5400000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EBS Worldwide Services, Advertising ,5500000,operating,IND,Mumbai,Mumbai,1,9/1/2007,2000-01,1,2000-Q1,2007,10/8/2010,6/7/2006,0,5500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ecolibrium, Hardware + Software ,1600000,operating,IND,Ahmedabad,Ahmedabad,1,9/1/2007,2009-01,1,2009-Q1,2007,10/10/2010,5/27/2013,1600000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ecom Express, Logistics ,16500000,operating,IND,New Delhi,Gurgaon,1,9/6/2007,2013-01,1,2013-Q1,2007,11/1/2010,9/9/2014,0,16500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ecozen Solutions, Clean Technology , NA   ,operating,IND,Nagpur,Nagpur,1,9/19/2007,2010-09,3,2010-Q3,2007,11/13/2010,12/12/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+eDabba, Fashion ,2850000,operating,IND,Mumbai,Mumbai,3,10/1/2007,2011-04,2,2011-Q2,2007,11/17/2010,9/6/2013,2000000,850000,0,0,0,0,0,0,0,0,0,0,0,850000,0,0,0,0,0,0,0
+eDreams Edusoft, Software ,2000000,operating,IND,Bangalore,Bangalore,1,11/1/2007,2010-01,1,2010-Q1,2007,11/27/2010,5/29/2013,0,2000000,0,0,0,0,0,0,0,0,0,0,0,2000000,0,0,0,0,0,0,0
+Edserv Softsystems, Education ,964000,closed,IND,Chennai,Chennai,1,12/5/2007,2001-01,1,2001-Q1,2007,11/29/2010,3/27/2008,0,964000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Edsix Brain Lab Private Limited, Kids ,"50,000",operating,IND,Chennai,Chennai,1,12/20/2007,2013-01,1,2013-Q1,2007,12/1/2010,6/30/2013,50000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EduKart, Education ,500000,operating,IND,New Delhi,New Delhi,1,1/1/2008,2011-01,1,2011-Q1,2008,12/1/2010,5/30/2013,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+edupristine, Corporate Training ,1500000,operating,IND,Mumbai,Mumbai,1,1/1/2008,2007-01,1,2007-Q1,2008,12/9/2010,4/8/2014,0,1500000,0,0,0,0,0,0,0,0,0,0,0,1500000,0,0,0,0,0,0,0
+Edutor, Education ,400000,operating,IND,Hyderabad,Hyderabad,1,1/1/2008,,,,2008,12/10/2010,3/26/2012,0,0,0,0,0,0,400000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Egully, E-Commerce ,"50,000",operating,IND,Delhi,Delhi,1,1/1/2008,2009-11,4,2009-Q4,2008,12/15/2010,1/1/2009,0,50000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eka Software Solutions, Logistics ,16000000,operating,IND,Bangalore,Bangalore,3,1/1/2008,2004-01,1,2004-Q1,2008,1/1/2011,10/15/2013,0,16000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eko India Financial Services, Finance ,5500000,operating,IND,New Delhi,New Delhi,1,1/1/2008,,,,2008,1/1/2011,7/11/2011,0,5500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Electronic Payment and Services (EPS), Hardware + Software ,11000000,operating,IND,Mumbai,Mumbai,2,1/1/2008,2012-01,1,2012-Q1,2008,1/1/2011,12/17/2013,0,11000000,0,0,0,0,0,0,0,0,0,0,0,0,6000000,0,0,0,0,0,0
+Embibe, Education ,4000000,operating,IND,Mumbai,Mumbai,1,1/1/2008,2012-01,1,2012-Q1,2008,1/1/2011,5/5/2014,0,4000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Emergent Ventures India, Consulting ,10040000,operating,IND,New Delhi,Gurgaon,1,1/1/2008,1999-01,1,1999-Q1,2008,1/1/2011,4/6/2008,0,10040000,0,0,0,0,0,0,0,0,0,0,0,10040000,0,0,0,0,0,0,0
+eMithilaHaat, Art ,"5,000",operating,IND,IND - Other,Darbhanga,1,1/1/2008,2013-12,4,2013-Q4,2008,1/1/2011,10/25/2013,5000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+emo2 Inc, Hardware + Software , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/2008,2011-02,1,2011-Q1,2008,1/4/2011,2/2/2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Empower Futures,,"16,000",,IND,Ahmedabad,Ahmedabad,1,1/1/2008,2012-09,3,2012-Q3,2008,1/11/2011,1/1/2013,0,0,0,0,0,0,16000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Equitas Holdings, Finance ,16000000,closed,IND,Chennai,Chennai,1,1/1/2008,2007-01,1,2007-Q1,2008,1/25/2011,12/20/2013,0,16000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ERC Eye Care, Biotechnology , NA   ,operating,IND,IND - Other,Jorhat,1,1/1/2008,2011-01,1,2011-Q1,2008,2/1/2011,12/18/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eruvaka Technologies, Manufacturing , NA   ,operating,IND,Vijayawada,Vijayawada,1,1/1/2008,2012-01,1,2012-Q1,2008,2/2/2011,11/26/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Etable, Social Media ,100000,operating,IND,Bangalore,Bangalore,1,1/1/2008,2012-01,1,2012-Q1,2008,2/2/2011,1/10/2013,0,0,0,0,0,0,100000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+etechies.in,,2003257,operating,IND,New Delhi,Gurgaon,1,1/1/2008,,,,2008,2/4/2011,11/1/2011,0,2003257,0,0,0,0,0,0,0,0,0,0,0,2003257,0,0,0,0,0,0,0
+Etown India Services, Local Businesses ,110000,operating,IND,IND - Other,Kovilpatti,1,1/1/2008,,,,2008,3/1/2011,3/15/2012,0,110000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eventifier, Curated Web ,500000,operating,IND,Bangalore,Bangalore,1,1/1/2008,2012-01,1,2012-Q1,2008,3/1/2011,12/2/2013,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eventus Software Pvt, Software ,130000,,IND,Chennai,Chennai,1,1/1/2008,2011-01,1,2011-Q1,2008,3/1/2011,4/28/2014,0,0,0,0,0,0,130000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Exam18, Marketplaces ,"81,208",operating,IND,Mumbai,Mumbai,1,1/1/2008,2013-01,1,2013-Q1,2008,3/1/2011,1/12/2014,81208,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Examify, Big Data ,"80,000",operating,IND,Mumbai,Mumbai,1,1/1/2008,2012-01,1,2012-Q1,2008,3/9/2011,8/18/2014,80000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Excellence4u, Consulting ,10000000,operating,IND,Bangalore,Bangalore,1,1/1/2008,2011-01,1,2011-Q1,2008,3/18/2011,5/28/2013,0,10000000,0,0,0,0,0,0,0,0,0,0,0,10000000,0,0,0,0,0,0,0
+Excelsoft, Education ,8620000,operating,IND,Mysore,Mysore,1,1/1/2008,1999-01,1,1999-Q1,2008,4/1/2011,9/17/2008,0,8620000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EximSoft-Trianz, Software ,14000000,acquired,IND,Bangalore,Bangalore,1,1/1/2008,1997-01,1,1997-Q1,2008,4/1/2011,1/16/2007,0,14000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Exotel, Messaging ,500000,operating,IND,Bangalore,Bangalore,1,1/12/2008,,,,2008,4/5/2011,3/27/2012,0,500000,0,0,0,0,0,0,0,0,0,0,0,500000,0,0,0,0,0,0,0
+Experifun, Education ,335000,operating,IND,Bangalore,Bangalore,2,2/1/2008,2012-01,1,2012-Q1,2008,4/13/2011,9/19/2014,260000,75000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Explara, Ticketing , NA   ,operating,IND,Bangalore,Bangalore,2,2/5/2008,2008-01,1,2008-Q1,2008,4/15/2011,2/18/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+eYantra Industries, Software ,7500000,operating,IND,Hyderabad,Hyderabad,1,2/8/2008,2001-01,1,2001-Q1,2008,4/21/2011,7/8/2010,0,7500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eye-Q, Health and Wellness ,4500000,operating,IND,New Delhi,Gurgaon,1,4/9/2008,2007-01,1,2007-Q1,2008,5/1/2011,1/30/2014,0,4500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ezetap, Mobile ,11500000,operating,IND,Bangalore,Bangalore,3,4/17/2008,2011-01,1,2011-Q1,2008,5/1/2011,3/20/2014,0,11500000,0,0,0,0,0,0,0,0,0,0,0,3500000,8000000,0,0,0,0,0,0
+EZMove, E-Commerce ,165000,operating,IND,Pune,Pune,1,5/1/2008,2013-01,1,2013-Q1,2008,5/12/2011,8/22/2014,0,0,0,0,0,0,165000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FAB BAG, Subscription Businesses ,500000,,IND,Mumbai,Mumbai,1,5/1/2008,2012-07,3,2012-Q3,2008,5/25/2011,2/18/2013,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FabAlley, E-Commerce , NA   ,operating,IND,New Delhi,Noida,1,5/16/2008,2012-01,1,2012-Q1,2008,6/1/2011,11/20/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fareye, Software ,320000,operating,IND,New Delhi,New Delhi,1,5/18/2008,2008-01,1,2008-Q1,2008,6/1/2011,9/11/2014,320000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fashion & You, E-Commerce ,48000000,operating,IND,New Delhi,Gurgaon,2,6/1/2008,2009-11,4,2009-Q4,2008,6/6/2011,11/14/2011,0,48000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+fashionandyou.com, Fashion ,10000000,operating,IND,New Delhi,Gurgaon,1,7/1/2008,2009-01,1,2009-Q1,2008,6/14/2011,6/6/2014,0,10000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10000000,0,0,0,0
+Favista Real Estate, Real Estate ,2000000,operating,IND,New Delhi,Gurgaon,1,7/1/2008,2011-12,4,2011-Q4,2008,6/20/2011,1/1/2012,0,2000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fifth Generation Technologies India Private, Software ,3310000,operating,IND,Chennai,Chennai,1,7/10/2008,1998-01,1,1998-Q1,2008,6/22/2011,11/25/2009,0,3310000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FilmySphere Entertainment Pvt Ltd, Games ,100000,operating,IND,Bangalore,Bangalore,1,8/1/2008,2013-12,4,2013-Q4,2008,6/27/2011,5/23/2014,100000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Financial Information Network & Operations Pvt, Finance ,35000000,closed,IND,Mumbai,Mumbai,2,8/20/2008,2006-01,1,2006-Q1,2008,7/1/2011,12/9/2009,0,35000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Financial Software Systems, Software ,57000000,operating,IND,Chennai,Chennai,1,9/15/2008,1991-01,1,1991-Q1,2008,7/11/2011,10/14/2014,0,57000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57000000,0,0,0,0
+FindURClass,,250000,operating,IND,Mumbai,Mumbai,1,10/1/2008,2013-04,2,2013-Q2,2008,7/20/2011,11/26/2014,0,0,0,0,0,0,250000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FindYogi, Consumers ,100000,operating,IND,Bangalore,Bangalore,1,10/1/2008,2012-10,4,2012-Q4,2008,8/1/2011,7/19/2013,100000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Firepro Systems, Security ,12000000,operating,IND,Bangalore,Bangalore,1,10/1/2008,1992-01,1,1992-Q1,2008,8/1/2011,4/4/2006,0,12000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FirstCry.com, E-Commerce ,29000000,operating,IND,Pune,Pune,2,11/7/2008,2010-01,1,2010-Q1,2008,8/5/2011,1/21/2014,0,29000000,0,0,0,0,0,0,0,0,0,0,0,0,14000000,15000000,0,0,0,0,0
+FirstRide, Automotive , NA   ,operating,IND,Bangalore,Bangalore,1,11/12/2008,2012-01,1,2012-Q1,2008,8/5/2011,9/18/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FixNix Inc., Network Security ,325020,operating,IND,Vellore,Vellore,2,12/1/2008,2012-11,4,2012-Q4,2008,8/10/2011,1/16/2014,162510,0,0,0,0,162510,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flat.to, Real Estate , NA   ,operating,IND,Mumbai,Mumbai,1,1/1/2009,2013-04,2,2013-Q2,2009,8/17/2011,7/8/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FleAffair, Internet ,"10,000",operating,IND,New Delhi,New Delhi,1,1/1/2009,2013-08,3,2013-Q3,2009,8/18/2011,11/21/2013,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flinto, E-Commerce ,335000,operating,IND,Chennai,Chennai,2,1/1/2009,,,,2009,8/28/2011,10/2/2014,335000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+flipClass, Education , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/2009,2013-01,1,2013-Q1,2009,9/1/2011,8/14/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flipkart, Online Shopping ,2351140000,operating,IND,Bangalore,Bangalore,11,1/1/2009,2007-09,3,2007-Q3,2009,9/1/2011,11/24/2014,0,2351000000,0,0,0,0,140000,0,0,0,0,0,0,1000000,10000000,20000000,150000000,360000000,210000000,1000000000,600000000
+Flutura Solutions, Software , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/2009,2012-01,1,2012-Q1,2009,9/4/2011,11/21/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FORMCEPT, Big Data Analytics , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/2009,2011-10,4,2011-Q4,2009,9/11/2011,6/1/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FortunePay, Financial Services ,1000000,operating,IND,Bangalore,Bangalore,1,1/1/2009,2011-01,1,2011-Q1,2009,9/18/2011,6/5/2014,0,0,0,0,0,0,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forus Health, Health Care ,13400000,operating,IND,Bangalore,Bangalore,2,1/1/2009,,,,2009,9/25/2011,1/9/2014,0,13400000,0,0,0,0,0,0,0,0,0,0,0,5000000,8400000,0,0,0,0,0,0
+Four Interactive, Curated Web ,12000000,operating,IND,Bangalore,Bangalore,2,1/1/2009,2006-01,1,2006-Q1,2009,9/25/2011,9/1/2007,0,12000000,0,0,0,0,0,0,0,0,0,0,0,2000000,10000000,0,0,0,0,0,0
+Framebench, Collaboration ,150000,operating,IND,New Delhi,New Delhi,1,1/1/2009,2012-01,1,2012-Q1,2009,10/1/2011,1/25/2013,150000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FreeCharge, Payments ,33000000,operating,IND,Mumbai,Mumbai,1,1/1/2009,2010-01,1,2010-Q1,2009,10/1/2011,9/1/2014,0,33000000,0,0,0,0,0,0,0,0,0,0,0,0,33000000,0,0,0,0,0,0
+FREECULTR, Women ,9000000,operating,IND,Haryana,Haryana,1,1/1/2009,2011-01,1,2011-Q1,2009,10/1/2011,7/17/2012,0,9000000,0,0,0,0,0,0,0,0,0,0,0,0,9000000,0,0,0,0,0,0
+FreshMonk, E-Commerce , NA   ,operating,IND,New Delhi,Noida,1,1/1/2009,,,,2009,10/3/2011,11/1/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Frilp, E-Commerce ,500000,operating,IND,Chennai,Chennai,1,1/1/2009,2013-02,1,2013-Q1,2009,10/17/2011,8/8/2014,0,0,0,0,0,0,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+frintit, Postal and Courier Services ,"75,000",operating,IND,Bangalore,Bengaluru,1,1/1/2009,2012-01,1,2012-Q1,2009,10/19/2011,6/1/2012,75000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FrontalRain Technologies, Software , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/2009,,,,2009,11/1/2011,9/28/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Function Space, Social Network Media , NA   ,operating,IND,Pune,Pune,1,1/1/2009,2013-04,2,2013-Q2,2009,11/1/2011,4/16/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+G2One Network, Publishing , NA   ,operating,IND,New Delhi,New Delhi,2,1/1/2009,2011-06,2,2011-Q2,2009,11/1/2011,7/9/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Games2Win, Games ,13000000,operating,IND,Mumbai,Mumbai,3,1/1/2009,2005-01,1,2005-Q1,2009,11/1/2011,3/15/2013,0,13000000,0,0,0,0,0,0,0,0,0,0,0,5000000,6000000,2000000,0,0,0,0,0
+GAP Miners, Software ,500000,operating,IND,Hyderabad,Hyderabad,1,1/1/2009,2008-02,1,2008-Q1,2009,11/4/2011,1/1/2008,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gati Infrastructure, Clean Technology ,43000000,operating,IND,Secunderabad,Secunderabad,1,1/1/2009,2003-01,1,2003-Q1,2009,11/9/2011,6/28/2013,0,0,0,0,0,0,0,0,43000000,0,0,0,0,0,0,0,0,0,0,0,0
+Gayatrishakti Paper & Boards, Manufacturing ,4000000,operating,IND,IND - Other,Gujrat,1,1/1/2009,1996-01,1,1996-Q1,2009,11/16/2011,4/23/2014,4000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gecko, Hardware + Software ,"50,000",operating,IND,Bangalore,Bangalore,1,1/1/2009,2007-01,1,2007-Q1,2009,11/30/2011,10/11/2013,0,0,0,0,0,0,0,0,0,0,0,0,50000,0,0,0,0,0,0,0,0
+GemPundit, Jewelry , NA   ,operating,IND,New Delhi,Gurgaon,1,1/1/2009,2012-11,4,2012-Q4,2009,12/7/2011,10/8/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Genii Technologies, Mobile ,100000,operating,IND,Mumbai,Mumbai,2,1/1/2009,2011-05,2,2011-Q2,2009,12/12/2011,4/1/2014,40000,0,0,0,0,0,60000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GenY Medium, Social Media ,500000,operating,IND,Hyderabad,Hyderabad,1,1/1/2009,2011-01,1,2011-Q1,2009,12/12/2011,5/30/2013,0,0,0,0,0,0,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Germin8, Social Media ,5400000,operating,IND,Mumbai,Mumbai,2,1/1/2009,2007-01,1,2007-Q1,2009,12/28/2011,3/27/2014,0,3000000,0,0,0,0,2400000,0,0,0,0,0,0,3000000,0,0,0,0,0,0,0
+Getit InfoServices, Search ,36400000,operating,IND,New Delhi,New Delhi,1,1/1/2009,,,,2009,1/1/2012,6/3/2013,0,36400000,0,0,0,0,0,0,0,0,0,0,0,36400000,0,0,0,0,0,0,0
+Gift2Greet.com, E-Commerce ,250000,operating,IND,Madhapur,Madhapur,1,1/11/2009,2007-01,1,2007-Q1,2009,1/1/2012,1/1/2014,250000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giftindia24x7.com,, NA   ,operating,IND,Kolkata,Kolkata,1,2/1/2009,2001-01,1,2001-Q1,2009,1/1/2012,1/2/2001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giftology, Social Media , NA   ,closed,IND,New Delhi,New Delhi,1,2/8/2009,,,,2009,1/1/2012,1/31/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giftxoxo, E-Commerce , NA   ,operating,IND,Bangalore,Bangalore,1,3/22/2009,2012-01,1,2012-Q1,2009,1/1/2012,7/10/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GigsJam, Music ,"8,000",operating,IND,New Delhi,New Delhi,1,3/31/2009,2014-07,3,2014-Q3,2009,1/1/2012,7/23/2014,8000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gingersoft Media, Advertising ,2000000,closed,IND,Bangalore,Bangalore,1,5/1/2009,,,,2009,1/1/2012,11/29/2007,0,2000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gingr, Mobile ,"28,000",operating,IND,New Delhi,Gurgaon,1,5/20/2009,,,,2009,1/1/2012,10/15/2012,0,0,0,0,0,0,28000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gini & Jony, E-Commerce ,18000000,operating,IND,Mumbai,Mumbai,1,6/1/2009,1980-01,1,1980-Q1,2009,1/1/2012,5/14/2013,0,0,0,0,0,0,0,0,18000000,0,0,0,0,0,0,0,0,0,0,0,0
+girnarsoft, Software ,15000000,operating,IND,Jaipur,Jaipur,1,8/1/2009,2007-01,1,2007-Q1,2009,1/1/2012,11/20/2013,0,15000000,0,0,0,0,0,0,0,0,0,0,0,15000000,0,0,0,0,0,0,0
+Giveter, Advertising ,500000,operating,IND,Haryana,Haryana,1,8/14/2009,2012-01,1,2012-Q1,2009,1/1/2012,12/16/2013,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gland Pharma, Biotechnology ,200000000,operating,IND,Hyderabad,Hyderabad,1,8/16/2009,,,,2009,1/1/2012,11/28/2013,0,0,0,0,0,0,0,0,200000000,0,0,0,0,0,0,0,0,0,0,0,0
+Global Talent Track, Corporate Training , NA   ,operating,IND,Pune,Pune,1,8/17/2009,2008-01,1,2008-Q1,2009,1/14/2012,1/14/2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GMR Group, Consulting ,398350000,operating,IND,Bangalore,Bangalore,1,9/1/2009,1978-01,1,1978-Q1,2009,1/18/2012,1/27/2014,0,0,0,0,0,398350000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GoCoop, Software ,"70,000",operating,IND,Bangalore,Bangalore,2,9/15/2009,2011-01,1,2011-Q1,2009,1/24/2012,12/17/2013,70000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GourmetItUp, Restaurants ,300000,operating,IND,Mumbai,Mumbai,1,9/24/2009,2012-01,1,2012-Q1,2009,2/1/2012,10/27/2014,0,0,0,0,0,0,300000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grabhouse, Real Estate ,2500000,operating,IND,Mumbai,Mumbai,3,10/1/2009,2013-03,1,2013-Q1,2009,2/3/2012,11/5/2014,0,2500000,0,0,0,0,0,0,0,0,0,0,0,2000000,0,0,0,0,0,0,0
+GrabInbox, Facebook Applications ,"40,000",operating,IND,Mumbai,Mumbai,1,11/1/2009,2011-01,1,2011-Q1,2009,2/5/2012,6/20/2011,40000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GradeStack, Education , NA   ,operating,IND,New Delhi,Noida,1,11/16/2009,2012-09,3,2012-Q3,2009,2/7/2012,3/28/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grama Vidiyal Micro Finance, Finance , NA   ,operating,IND,Tamil Nadu,,1,11/26/2009,,,,2009,2/9/2012,1/7/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gramco, Real Estate ,2300000,operating,IND,Indore,Indore,1,1/1/2010,2009-01,1,2009-Q1,2010,2/9/2012,8/26/2013,0,0,0,0,0,0,0,0,2300000,0,0,0,0,0,0,0,0,0,0,0,0
+Grameen Financial Services, Finance ,21556050,operating,IND,Bangalore,Bangalore,2,1/1/2010,1999-01,1,1999-Q1,2010,2/13/2012,5/16/2014,0,21556050,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GramVaani,,500000,operating,IND,New Delhi,New Delhi,1,1/1/2010,2009-01,1,2009-Q1,2010,2/14/2012,7/8/2013,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gray Routes Innovative Distribution, Mobile ,110000,operating,IND,Mumbai,Mumbai,1,1/1/2010,2013-03,1,2013-Q1,2010,3/3/2012,7/23/2013,0,0,0,0,0,0,110000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Greencart, E-Commerce ,1500000,operating,IND,Mumbai,Mumbai,1,1/1/2010,2013-01,1,2013-Q1,2010,3/14/2012,3/28/2014,0,0,0,0,0,0,1500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GreenDust, E-Commerce ,40000000,operating,IND,Delhi,Delhi,1,1/1/2010,2008-10,4,2008-Q4,2010,3/15/2012,6/28/2012,0,40000000,0,0,0,0,0,0,0,0,0,0,0,0,40000000,0,0,0,0,0,0
+Greenko Group, Clean Technology ,241983286,operating,IND,Hyderabad,Hyderabad,2,1/1/2010,,,,2010,3/26/2012,10/24/2014,0,0,0,116983286,0,0,0,0,0,125000000,0,0,0,0,0,0,0,0,0,0,0
+Grey Orange Robotics, Robotics , NA   ,operating,IND,New Delhi,Gurgaon,1,1/1/2010,2011-06,2,2011-Q2,2010,3/27/2012,4/29/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GridAnts, Startups ,3000000,operating,IND,Mumbai,Mumbai,1,1/1/2010,2012-01,1,2012-Q1,2010,3/29/2012,9/2/2014,3000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gridle.in, Collaboration ,"30,000",operating,IND,Ahmedabad,Ahmedabad,3,1/1/2010,2013-09,3,2013-Q3,2010,3/31/2012,1/6/2014,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Groupe Athena, Biotechnology ,2355000,operating,IND,Mumbai,Mumbai,1,1/1/2010,2008-01,1,2008-Q1,2010,4/1/2012,3/3/2010,0,2355000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GrownOut, Social Network Media ,"40,000",operating,IND,New Delhi,New Delhi,2,1/1/2010,2013-01,1,2013-Q1,2010,4/1/2012,10/7/2014,40000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GTI Capital Group, Finance , NA   ,operating,IND,New Delhi,New Delhi,1,1/1/2010,,,,2010,4/1/2012,3/1/2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gungroo, Parenting , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/2010,2012-04,2,2012-Q2,2010,4/1/2012,4/1/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GupShup, Mobile ,33000000,operating,IND,Mumbai,Mumbai,3,1/1/2010,2004-06,2,2004-Q2,2010,4/1/2012,3/2/2010,0,33000000,0,0,0,0,0,0,0,0,0,0,0,0,10000000,11000000,12000000,0,0,0,0
+Guruji, Search ,15000000,closed,IND,Bangalore,Bangalore,2,1/1/2010,2006-10,4,2006-Q4,2010,4/4/2012,1/1/2007,0,15000000,0,0,0,0,0,0,0,0,0,0,0,7000000,8000000,0,0,0,0,0,0
+HackerEarth, Software ,500000,operating,IND,Bangalore,Bangalore,2,1/1/2010,2012-01,1,2012-Q1,2010,4/11/2012,2/24/2014,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Haier, Home Automation ,364000000,operating,IND,New Delhi,New Delhi,1,1/1/2010,,,,2010,4/21/2012,12/8/2013,0,0,0,0,0,0,0,0,364000000,0,0,0,0,0,0,0,0,0,0,0,0
+Happiest Minds, Software ,45000000,,IND,Bangalore,Bangalore,1,1/1/2010,2011-08,3,2011-Q3,2010,4/25/2012,11/16/2011,0,45000000,0,0,0,0,0,0,0,0,0,0,0,45000000,0,0,0,0,0,0,0
+Head Held High, Nonprofits ,408225,operating,IND,Bangalore,Bangalore,1,1/1/2010,2007-06,2,2007-Q2,2010,4/27/2012,8/13/2013,0,408225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HealthcareMagic, Health Care ,2500000,acquired,IND,Bangalore,Bangalore,1,1/1/2010,2008-02,1,2008-Q1,2010,4/27/2012,2/12/2009,0,2500000,0,0,0,0,0,0,0,0,0,0,0,2500000,0,0,0,0,0,0,0
+HealthHiway, Enterprise Software ,4000000,operating,IND,Hyderabad,Hyderabad,1,1/1/2010,,,,2010,5/1/2012,9/4/2009,0,4000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Healthkart, E-Commerce , NA   ,operating,IND,New Delhi,Gurgaon,1,1/1/2010,2011-03,1,2011-Q1,2010,5/1/2012,6/7/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hearing Plus,, NA   ,operating,IND,Kolkata,Kolkata,1,1/1/2010,,,,2010,5/1/2012,8/12/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heckyl, Finance ,4750000,operating,IND,Mumbai,Mumbai,3,1/1/2010,2010-12,4,2010-Q4,2010,5/25/2012,12/10/2013,250000,3500000,0,0,0,0,1000000,0,0,0,0,0,0,0,3500000,0,0,0,0,0,0
+Hector Beverages, Hospitality ,8000000,operating,IND,Haryana,Haryana,1,1/1/2010,2009-01,1,2009-Q1,2010,5/25/2012,5/20/2013,0,8000000,0,0,0,0,0,0,0,0,0,0,0,0,8000000,0,0,0,0,0,0
+Helical IT Solutions, Software ,2500000,operating,IND,Hyderabad,Hyderabad,1,1/1/2010,2012-01,1,2012-Q1,2010,5/31/2012,5/10/2013,2500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hello Curry, Hospitality ,500000,operating,IND,Hyderabad,Hyderabad,1,1/1/2010,,,,2010,6/1/2012,3/7/2014,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hellotravel, E-Commerce , NA   ,operating,IND,New Delhi,Noida,1,1/1/2010,2009-01,1,2009-Q1,2010,6/1/2012,5/9/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HelpingDoc, Health and Wellness ,1655236,operating,IND,New Delhi,New Delhi,2,1/1/2010,2011-11,4,2011-Q4,2010,6/1/2012,8/7/2014,155236,1500000,0,0,0,0,0,0,0,0,0,0,0,1500000,0,0,0,0,0,0,0
+hike, Mobile ,86000000,operating,IND,New Delhi,New Delhi,3,1/1/2010,2012-12,4,2012-Q4,2010,6/2/2012,8/26/2014,0,86000000,0,0,0,0,0,0,0,0,0,0,0,7000000,14000000,65000000,0,0,0,0,0
+Hippocampus Learning Centres, Education ,20997981,operating,IND,Bangalore,Bangalore,5,1/1/2010,2010-01,1,2010-Q1,2010,6/4/2012,7/2/2014,0,20997981,0,0,0,0,0,0,0,0,0,0,0,13000000,0,0,0,0,0,0,0
+Hire a 3D Pro, Marketplaces ,"10,000",operating,IND,Hyderabad,Hyderabad,1,1/1/2010,,,,2010,6/4/2012,11/10/2014,0,0,0,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HistoryFile, Hospitality ,"6,000",operating,IND,Kochi,Kochi,1,1/1/2010,2008-07,3,2008-Q3,2010,6/21/2012,7/25/2008,6000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hokey Pokey,, NA   ,operating,IND,Mumbai,Mumbai,1,1/4/2010,2011-07,3,2011-Q3,2010,6/26/2012,8/21/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Holisol logistics, Logistics ,1500000,operating,IND,New Delhi,New Delhi,1,1/15/2010,2009-01,1,2009-Q1,2010,6/28/2012,8/25/2014,0,1500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HomeShop18, E-Commerce ,65000000,,IND,New Delhi,Noida,3,1/19/2010,2008-04,2,2008-Q2,2010,7/1/2012,10/23/2013,0,44000000,0,0,0,0,0,0,21000000,0,0,0,0,0,0,0,0,0,0,0,0
+hoopos.com, E-Commerce , NA   ,acquired,IND,Bangalore,Bangalore,1,1/21/2010,2011-01,1,2011-Q1,2010,7/1/2012,10/1/2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hoopz Planet Info, Content ,1000000,operating,IND,Pune,Pune,1,2/12/2010,2011-03,1,2011-Q1,2010,7/1/2012,8/1/2011,0,0,0,0,0,0,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hotelogix, Hotels ,3000000,operating,IND,New Delhi,Noida,2,2/28/2010,2008-01,1,2008-Q1,2010,7/1/2012,11/14/2014,0,3000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HotelsAroundYou, Hotels , NA   ,operating,IND,Mumbai,Mumbai,1,3/1/2010,,,,2010,7/10/2012,10/27/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Housing.com, Real Estate ,139500000,operating,IND,Mumbai,Mumbai,4,3/10/2010,2012-06,2,2012-Q2,2010,7/17/2012,11/19/2014,2500000,37000000,0,0,0,0,0,0,100000000,0,0,0,0,0,0,0,0,0,0,0,0
+Hungama Digital Media Entertainment Pvt. Ltd., Games ,40000000,operating,IND,Mumbai,Mumbai,1,3/10/2010,1999-04,2,1999-Q2,2010,7/17/2012,7/4/2014,0,40000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurix Systems Private, Software ,5100000,operating,IND,Mumbai,Mumbai,1,3/17/2010,2001-01,1,2001-Q1,2010,7/17/2012,10/3/2007,0,5100000,0,0,0,0,0,0,0,0,0,0,0,0,5100000,0,0,0,0,0,0
+i'mma, E-Commerce ,125000,closed,IND,Mumbai,Mumbai,1,3/22/2010,2013-08,3,2013-Q3,2010,7/30/2012,7/8/2013,125000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+i7 Networks, Security ,300000,operating,IND,Bangalore,Bangalore,1,3/30/2010,2012-06,2,2012-Q2,2010,7/31/2012,8/20/2012,300000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+iBloom Technologies, Curated Web , NA   ,closed,IND,Ahmedabad,Ahmedabad,1,4/1/2010,2009-05,2,2009-Q2,2010,8/1/2012,5/1/2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IBS Software Services (P), Software ,60000000,acquired,IND,Trivandrum,Trivandrum,1,4/1/2010,1997-01,1,1997-Q1,2010,8/1/2012,7/26/2007,0,0,0,0,0,0,0,0,60000000,0,0,0,0,0,0,0,0,0,0,0,0
+Icecreamlabs,, NA   ,operating,IND,Bangalore,Bangalore,1,4/1/2010,2013-01,1,2013-Q1,2010,8/1/2012,5/1/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+iCreate Software, Software ,12430000,operating,IND,Bangalore,Bangalore,2,4/19/2010,2006-01,1,2006-Q1,2010,8/1/2012,12/12/2012,0,12430000,0,0,0,0,0,0,0,0,0,0,0,3230000,9200000,0,0,0,0,0,0
+iD Fresh Food,,5700000,operating,IND,Bangalore,Bengaluru,1,5/16/2010,2006-01,1,2006-Q1,2010,8/6/2012,10/31/2014,0,5700000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Idea Device, Data Centers ,4000000,operating,IND,Bangalore,Bangalore,1,6/1/2010,2009-01,1,2009-Q1,2010,8/9/2012,10/9/2013,0,4000000,0,0,0,0,0,0,0,0,0,0,0,4000000,0,0,0,0,0,0,0
+ideacts innovations, Advertising ,5000000,operating,IND,Mumbai,Mumbai,1,6/1/2010,,,,2010,8/9/2012,7/3/2008,0,5000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ideaForge, Photography ,125000,operating,IND,Mumbai,Mumbai,2,6/1/2010,2007-02,1,2007-Q1,2010,8/10/2012,1/12/2011,0,0,0,0,0,0,125000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IFMR Capital, Finance ,29000000,operating,IND,Chennai,Chennai,1,6/1/2010,2006-01,1,2006-Q1,2010,8/13/2012,3/31/2014,0,29000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IFMR Rural Channels and Services, Finance ,5000000,operating,IND,Chennai,Chennai,1,7/2/2010,2006-01,1,2006-Q1,2010,8/15/2012,10/24/2013,0,0,0,0,0,0,0,0,5000000,0,0,0,0,0,0,0,0,0,0,0,0
+igadget.asia, News ,"10,000",closed,IND,Mumbai,Mumbai,1,9/1/2010,2012-01,1,2012-Q1,2010,8/20/2012,1/1/2012,0,0,0,0,0,0,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ignis IT Solutions, E-Commerce ,"50,000",operating,IND,Indore,Indore,1,9/6/2010,2013-01,1,2013-Q1,2010,9/1/2012,8/9/2013,0,0,0,0,0,0,0,0,50000,0,0,0,0,0,0,0,0,0,0,0,0
+iKaaz, NFC , NA   ,operating,IND,Bangalore,Bangalore,2,9/19/2010,2012-07,3,2012-Q3,2010,9/1/2012,1/30/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+iKen Solutions Pvt. Ltd., Content Discovery ,2000000,operating,IND,Mumbai,Mumbai,1,9/20/2010,2005-01,1,2005-Q1,2010,9/1/2012,1/1/2007,0,0,0,2000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+iKure Techsoft, Software ,115000,operating,IND,Kolkata,Kolkata,1,10/1/2010,2010-04,2,2010-Q2,2010,9/11/2012,3/9/2014,115000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IMAGINATE - Technovating Reality, Software ,"40,000",operating,IND,Hyderabad,Hyderabad,1,10/1/2010,2011-01,1,2011-Q1,2010,9/13/2012,8/10/2012,40000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IMImobile, Mobile ,26000000,operating,IND,Hyderabad,Hyderabad,3,11/3/2010,1999-01,1,1999-Q1,2010,9/16/2012,11/13/2009,0,26000000,0,0,0,0,0,0,0,0,0,0,0,3000000,10000000,0,0,0,0,0,0
+Incap, Manufacturing ,2587000,operating,IND,Bangalore,Bangalore,1,12/3/2010,,,,2010,9/24/2012,11/26/2008,0,2587000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+InCights Mobile Solutions, Software ,160000,operating,IND,Hyderabad,Hyderabad,1,12/8/2010,2010-01,1,2010-Q1,2010,9/28/2012,11/13/2013,0,0,0,0,0,0,160000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+India Online Health, Medical , NA   ,operating,IND,Pune,Pune,1,12/9/2010,2011-08,3,2011-Q3,2010,10/1/2012,2/18/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+India Property Online, E-Commerce ,19000000,operating,IND,Chennai,Chennai,2,12/13/2010,2012-01,1,2012-Q1,2010,10/13/2012,12/19/2013,0,19000000,0,0,0,0,0,0,0,0,0,0,0,7000000,12000000,0,0,0,0,0,0
+IndiaEver.com, Music ,"20,000",closed,IND,New Delhi,New Delhi,1,12/28/2010,2012-08,3,2012-Q3,2010,10/15/2012,9/13/2012,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IndiaHomes, Curated Web ,74800000,operating,IND,New Delhi,New Delhi,2,1/1/2011,,,,2011,10/15/2012,12/2/2014,0,74800000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IndiaIdeas, Finance ,7500000,operating,IND,Ahmedabad,Ahmedabad,1,1/1/2011,,,,2011,10/17/2012,6/22/2006,0,7500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IndiaMART, Services , NA   ,operating,IND,New Delhi,Noida,1,1/1/2011,1996-04,2,1996-Q2,2011,10/22/2012,1/14/2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IndianRoots, Internet ,5000000,operating,IND,New Delhi,Gurgaon,1,1/1/2011,2013-01,1,2013-Q1,2011,10/23/2012,9/7/2014,0,5000000,0,0,0,0,0,0,0,0,0,0,0,0,5000000,0,0,0,0,0,0
+IndianStage, Photography , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/2011,,,,2011,10/23/2012,2/17/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Indium Software Inc., Software ,1000000,operating,IND,Chennai,Chennai,1,1/1/2011,,,,2011,10/23/2012,4/21/2006,0,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Indus Insights, E-Commerce , NA   ,operating,IND,Haryana,Haryana,1,1/1/2011,2009-01,1,2009-Q1,2011,10/24/2012,8/5/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IndusDiva.com, E-Commerce , NA   ,operating,IND,Bangalore,Bangalore,2,1/1/2011,2012-01,1,2012-Q1,2011,10/30/2012,1/1/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Indyarocks, Social Media ,1000000,operating,IND,Hyderabad,Hyderabad,1,1/1/2011,2007-06,2,2007-Q2,2011,10/31/2012,11/15/2008,0,0,0,0,0,0,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+infoBizz, Software , NA   ,operating,IND,IND - Other,Meerut,1,1/1/2011,2008-11,4,2008-Q4,2011,11/1/2012,11/7/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infogile Technologies, Software ,"20,000",operating,IND,New Delhi,Gurgaon,1,1/1/2011,2007-05,2,2007-Q2,2011,11/7/2012,5/4/2007,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infrasoft Technologies, Software ,24800000,operating,IND,Mumbai,Mumbai,1,1/1/2011,1994-01,1,1994-Q1,2011,11/15/2012,7/11/2007,0,24800000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innovis, Telecommunications , NA   ,operating,IND,New Delhi,Gurgaon,1,1/1/2011,2009-01,1,2009-Q1,2011,11/20/2012,12/12/2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innoviti, Finance ,1600000,operating,IND,Bangalore,Bangalore,1,1/1/2011,2002-01,1,2002-Q1,2011,11/26/2012,3/20/2014,0,1600000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innoz, Apps , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/2011,2008-09,3,2008-Q3,2011,11/30/2012,4/1/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+InOpen, Education , NA   ,operating,IND,Mumbai,Mumbai,2,1/1/2011,2009-10,4,2009-Q4,2011,12/1/2012,11/24/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insightwall Technology Solutions, Software , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/2011,2014-09,3,2014-Q3,2011,12/1/2012,9/19/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Instamedia, Curated Web ,4000000,operating,IND,IND - Other,Shimla,1,1/1/2011,2006-08,3,2006-Q3,2011,12/10/2012,9/9/2010,0,4000000,0,0,0,0,0,0,0,0,0,0,0,4000000,0,0,0,0,0,0,0
+Instamojo, Payments ,500000,operating,IND,Mumbai,Mumbai,3,1/1/2011,2012-09,3,2012-Q3,2011,12/21/2012,11/13/2014,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+inTarvo, Outsourcing ,21900000,operating,IND,New Delhi,Noida,2,1/1/2011,1995-01,1,1995-Q1,2011,1/1/2013,9/17/2009,0,21900000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IntelleGrow Finance, Finance ,4500000,operating,IND,Mumbai,Mumbai,1,1/1/2011,2010-01,1,2010-Q1,2011,1/1/2013,3/5/2014,0,4500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IntelligenceNODE,,350000,operating,IND,Mumbai,Mumbai,1,1/1/2011,,,,2011,1/1/2013,5/1/2014,350000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+intelloCut, Software ,200000,operating,IND,New Delhi,Noida,1,1/1/2011,2012-01,1,2012-Q1,2011,1/1/2013,2/9/2014,200000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Intepat IP Services, Finance ,"10,000",operating,IND,Bangalore,Bangalore,1,1/1/2011,,,,2011,1/1/2013,9/1/2009,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+InterpretOmics, Analytics ,1600000,operating,IND,Bangalore,Bangalore,1,1/1/2011,2009-08,3,2009-Q3,2011,1/3/2013,8/13/2013,0,0,0,0,0,0,1600000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Interview Master, Human Resources , NA   ,operating,IND,Bangalore,Bangalore,3,1/1/2011,2012-05,2,2012-Q2,2011,1/8/2013,1/30/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+iNurture, Education ,4897824,operating,IND,Bangalore,Bangalore,1,1/1/2011,2005-01,1,2005-Q1,2011,1/9/2013,10/30/2014,4897824,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Invictus Oncology, Biotechnology ,1880000,operating,IND,Delhi,Delhi,1,1/1/2011,2011-01,1,2011-Q1,2011,1/10/2013,5/28/2013,0,1880000,0,0,0,0,0,0,0,0,0,0,0,1880000,0,0,0,0,0,0,0
+iPG Maxx Entertainment India (P) Ltd, Film ,500000,,IND,Andhra Pradesh,,1,1/1/2011,2014-04,2,2014-Q2,2011,1/10/2013,5/15/2014,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+iPolicy Networks, Security ,44000000,operating,IND,New Delhi,Noida,2,1/1/2011,,,,2011,1/10/2013,1/1/2006,0,44000000,0,0,0,0,0,0,0,0,0,0,0,0,15000000,0,0,0,0,0,0
+iProf Learning Solutions, Education ,15000000,operating,IND,New Delhi,Noida,2,1/1/2011,2009-01,1,2009-Q1,2011,1/25/2013,1/23/2014,0,15000000,0,0,0,0,0,0,0,0,0,0,0,6000000,9000000,0,0,0,0,0,0
+iSTAR, Education , NA   ,operating,IND,Bangalore,Bengaluru,1,1/1/2011,2009-01,1,2009-Q1,2011,1/31/2013,4/10/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+iTiffin, Health Care ,1000000,operating,IND,Bangalore,Bangalore,1,1/1/2011,2013-01,1,2013-Q1,2011,2/1/2013,8/28/2014,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ItzCash Card Ltd., Gift Card ,15000000,operating,IND,Mumbai,Mumbai,1,1/1/2011,2006-01,1,2006-Q1,2011,2/8/2013,9/2/2014,0,15000000,0,0,0,0,0,0,0,0,0,0,0,0,0,15000000,0,0,0,0,0
+Ivy Health and Life Sciences, Health and Wellness ,12100000,operating,IND,Mohali,Mohali,1,1/1/2011,2007-01,1,2007-Q1,2011,2/10/2013,6/11/2013,0,12100000,0,0,0,0,0,0,0,0,0,0,0,12100000,0,0,0,0,0,0,0
+ixigo.com, Hotels ,18500000,operating,IND,New Delhi,Gurgaon,3,1/1/2011,2006-06,2,2006-Q2,2011,2/12/2013,8/11/2011,0,0,0,18500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+iYogi, Hardware ,85600000,operating,IND,New Delhi,Gurgaon,5,1/1/2011,2007-01,1,2007-Q1,2011,2/14/2013,5/8/2014,0,85600000,0,0,0,0,0,0,0,0,0,0,0,3100000,9500000,15000000,30000000,28000000,0,0,0
+J Kumar Infraprojects, Real Estate ,22800000,operating,IND,Mumbai,Mumbai,1,1/1/2011,1980-01,1,1980-Q1,2011,2/15/2013,7/24/2014,0,0,0,0,0,0,0,0,22800000,0,0,0,0,0,0,0,0,0,0,0,0
+Jabong.com, Beauty ,27500000,operating,IND,New Delhi,Gurgaon,1,1/11/2011,2012-01,1,2012-Q1,2011,2/17/2013,2/5/2014,0,27500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jack On Block,, NA   ,operating,IND,Bangalore,Bangalore,1,1/11/2011,2012-01,1,2012-Q1,2011,2/18/2013,4/10/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Janalakshmi, Finance ,57000000,operating,IND,Bangalore,Bangalore,1,1/14/2011,2006-01,1,2006-Q1,2011,2/19/2013,8/14/2013,0,57000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57000000,0,0,0,0
+Jasper, E-Commerce ,102000000,,IND,New Delhi,New Delhi,3,2/1/2011,,,,2011,2/21/2013,4/28/2014,0,102000000,0,0,0,0,0,0,0,0,0,0,0,12000000,40000000,50000000,0,0,0,0,0
+Jaypore, Marketplaces ,375000,operating,IND,New Delhi,New Delhi,1,2/1/2011,2012-01,1,2012-Q1,2011,2/25/2013,9/4/2011,375000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jeeves, Hardware + Software , NA   ,operating,IND,Bangalore,Bangalore,1,2/2/2011,2007-01,1,2007-Q1,2011,3/1/2013,6/21/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+jiffstore, Retail , NA   ,operating,IND,Bangalore,Bangalore,1,2/7/2011,2013-01,1,2013-Q1,2011,3/1/2013,5/1/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jigsee, Video Streaming , NA   ,acquired,IND,Mumbai,Mumbai,2,2/14/2011,2008-04,2,2008-Q2,2011,3/1/2013,2/14/2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JoGuru, Travel ,200000,operating,IND,Pune,Pune,1,2/15/2011,2011-09,3,2011-Q3,2011,3/1/2013,10/5/2010,0,0,0,0,0,0,200000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Just Dial, Search ,67000000,,IND,Mumbai,Mumbai,2,2/15/2011,1997-11,4,1997-Q4,2011,3/8/2013,6/27/2012,0,67000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57000000,0,0,0
+K-12 Techno Services, Education ,15000000,operating,IND,Secunderabad,Secunderabad,1,3/1/2011,,,,2011,3/13/2013,9/8/2010,0,15000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+K2 Learning, Education ,1300000,operating,IND,Bangalore,Bangalore,1,3/1/2011,2009-01,1,2009-Q1,2011,3/15/2013,10/18/2013,0,0,0,0,0,0,1300000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kalyan Jewellers, Jewelry ,200000000,operating,IND,IND - Other,,1,3/22/2011,1993-01,1,1993-Q1,2011,4/1/2013,8/26/2014,0,0,0,0,0,0,0,0,200000000,0,0,0,0,0,0,0,0,0,0,0,0
+Kapsica Media, Advertising , NA   ,operating,IND,Pune,Pune,1,3/28/2011,2011-09,3,2011-Q3,2011,4/1/2013,3/11/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Karma Recycling, Software , NA   ,operating,IND,New Delhi,New Delhi,1,4/1/2011,2012-01,1,2012-Q1,2011,4/1/2013,10/9/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KarmYog Media, News , NA   ,operating,IND,Kolkata,Kolkata,1,4/1/2011,,,,2011,4/2/2013,3/19/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KartRocket, SaaS ,2000000,operating,IND,New Delhi,New Delhi,2,5/1/2011,2012-01,1,2012-Q1,2011,4/3/2013,10/21/2014,0,2000000,0,0,0,0,0,0,0,0,0,0,0,2000000,0,0,0,0,0,0,0
+Ketto, Curated Web ,150000,operating,IND,Mumbai,Mumbai,1,5/1/2011,2012-08,3,2012-Q3,2011,4/10/2013,11/18/2013,0,0,0,0,0,0,150000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Keyideas Infotech (P) Limited, Web Development ,1000000,operating,IND,New Delhi,New Delhi,1,5/1/2011,2009-08,3,2009-Q3,2011,4/10/2013,1/10/2013,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Knimbus, Messaging ,500000,operating,IND,New Delhi,Gurgaon,1,5/1/2011,2010-06,2,2010-Q2,2011,4/15/2013,7/4/2013,0,0,0,0,0,0,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Knottykart, E-Commerce ,160000,operating,IND,New Delhi,Noida,1,5/9/2011,,,,2011,4/24/2013,2/4/2014,0,0,0,0,0,0,160000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Knowlarity Communications, Software ,22500000,operating,IND,New Delhi,Gurgaon,3,5/10/2011,2009-08,3,2009-Q3,2011,4/25/2013,7/28/2014,0,22500000,0,0,0,0,0,0,0,0,0,0,0,6500000,16000000,0,0,0,0,0,0
+Komli Media, Advertising ,97000000,operating,IND,Mumbai,Mumbai,5,5/10/2011,2006-10,4,2006-Q4,2011,5/1/2013,10/24/2013,0,67000000,0,0,0,0,0,0,30000000,0,0,0,0,7000000,6000000,15000000,39000000,0,0,0,0
+Konotor, Apps ,155000,operating,IND,Chennai,Chennai,2,5/12/2011,2013-08,3,2013-Q3,2011,5/9/2013,5/26/2014,155000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kotak Urja, Clean Technology ,8000000,operating,IND,Bangalore,Bangalore,1,6/1/2011,1997-01,1,1997-Q1,2011,5/9/2013,11/10/2008,0,8000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Krishidhan Seeds, Biotechnology ,30000000,operating,IND,IND - Other,Jalna,1,6/1/2011,,,,2011,5/10/2013,5/7/2010,0,30000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KSK Power Venture, Clean Technology ,97430000,operating,IND,Hyderabad,Hyderabad,1,6/1/2011,,,,2011,5/13/2013,6/16/2008,0,0,0,0,0,0,0,0,97430000,0,0,0,0,0,0,0,0,0,0,0,0
+Kuliza, Social Commerce , NA   ,operating,IND,Bangalore,Bangalore,1,6/1/2011,2006-09,3,2006-Q3,2011,5/14/2013,8/29/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kustom Codes, Mobile ,100000,operating,IND,Ahmedabad,Ahmedabad,2,6/1/2011,2011-08,3,2011-Q3,2011,5/14/2013,10/13/2014,0,0,0,0,0,0,100000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kwaab, E-Commerce , NA   ,operating,IND,New Delhi,Gurgaon,1,6/5/2011,,,,2011,5/15/2013,2/19/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LabourNet, Social Media , NA   ,operating,IND,Bangalore,Bangalore,1,7/1/2011,2008-01,1,2008-Q1,2011,5/16/2013,12/18/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Langhar,,110000,operating,IND,Delhi,Delhi,2,7/15/2011,2013-08,3,2013-Q3,2011,5/20/2013,12/23/2013,0,0,0,0,0,110000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Laurus Labs, Pharmaceuticals ,90000000,operating,IND,Hyderabad,Hyderabad,1,7/20/2011,2005-01,1,2005-Q1,2011,5/21/2013,10/30/2014,0,90000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Learnhive, Education ,400000,operating,IND,Bangalore,Bangalore,1,7/28/2011,2010-12,4,2010-Q4,2011,5/21/2013,5/29/2013,400000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Learnpedia Edutech Solutions, Education , NA   ,operating,IND,Hyderabad,Hyderabad,1,8/18/2011,,,,2011,5/27/2013,2/10/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lenskart.com, Online Shopping ,14000000,operating,IND,New Delhi,New Delhi,2,8/24/2011,2010-01,1,2010-Q1,2011,5/28/2013,12/1/2012,0,14000000,0,0,0,0,0,0,0,0,0,0,0,4000000,10000000,0,0,0,0,0,0
+letsmote.com, Social Media ,"80,000",operating,IND,Mumbai,Mumbai,1,8/29/2011,2013-05,2,2013-Q2,2011,5/28/2013,3/3/2012,80000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LetsVenture, Internet ,650000,operating,IND,Bangalore,Bangalore,1,9/1/2011,2013-01,1,2013-Q1,2011,5/29/2013,5/13/2014,650000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LimeRoad, Social Media ,20000000,operating,IND,New Delhi,Gurgaon,2,9/1/2011,2012-01,1,2012-Q1,2011,5/29/2013,5/5/2014,0,20000000,0,0,0,0,0,0,0,0,0,0,0,5000000,15000000,0,0,0,0,0,0
+LinQMart, Brand Marketing ,"20,000",operating,IND,Bangalore,Bangalore City,2,9/1/2011,,,,2011,5/29/2013,10/2/2014,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LIQVID, Education ,3000000,operating,IND,New Delhi,Noida,1,9/1/2011,2002-01,1,2002-Q1,2011,5/29/2013,8/1/2012,0,3000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Little Eye Labs, Testing , NA   ,acquired,IND,Bangalore,Bangalore,1,9/1/2011,2012-06,2,2012-Q2,2011,5/30/2013,6/1/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LivQuik, Mobile , NA   ,operating,IND,Mumbai,Mumbai,1,9/1/2011,2012-07,3,2012-Q3,2011,5/30/2013,8/5/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LocalBanya, Curated Web ,5000000,operating,IND,Mumbai,Mumbai,1,9/15/2011,2012-05,2,2012-Q2,2011,5/30/2013,1/9/2014,0,5000000,0,0,0,0,0,0,0,0,0,0,0,5000000,0,0,0,0,0,0,0
+LogicLadder, Manufacturing ,275000,operating,IND,New Delhi,Gurgaon,1,10/1/2011,2011-05,2,2011-Q2,2011,6/1/2013,2/5/2014,0,0,0,0,0,0,275000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Loylty Rewardz Management, Advertising ,4400000,operating,IND,Mumbai,Mumbai,1,10/1/2011,,,,2011,6/1/2013,10/3/2011,0,4400000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lucid Colloids, Finance ,27500000,operating,IND,New Delhi,Gurgaon,1,10/1/2011,,,,2011,6/1/2013,9/3/2014,0,27500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LurnQ, Education , NA   ,operating,IND,Mumbai,Mumbai,1,10/1/2011,2011-03,1,2011-Q1,2011,6/3/2013,6/2/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lybrate, Health and Wellness ,1230000,operating,IND,New Delhi,New Delhi,1,10/4/2011,2013-01,1,2013-Q1,2011,6/4/2013,9/10/2014,0,1230000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MadRat Games, Games ,1500000,operating,IND,Bangalore,Bangalore,2,10/10/2011,2010-01,1,2010-Q1,2011,6/4/2013,11/20/2014,0,1500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MagicRooms Solutions India (P)Ltd., Travel ,1490000,operating,IND,Bangalore,Bangalore,1,10/27/2011,,,,2011,6/5/2013,7/7/2010,0,1490000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Maharana Infrastructure and Professional Services Private Limited (MIPS), Education ,21600000,operating,IND,New Delhi,Noida,3,11/1/2011,,,,2011,6/7/2013,7/10/2014,0,21600000,0,0,0,0,0,0,0,0,0,0,0,8300000,13300000,0,0,0,0,0,0
+Mahindra REVA, Automotive ,25000000,operating,IND,Bangalore,Bangalore,2,11/1/2011,1994-01,1,1994-Q1,2011,6/10/2013,9/1/2009,0,25000000,0,0,0,0,0,0,0,0,0,0,0,0,24000000,0,0,0,0,0,0
+Maiyas Beverages And Foods, Food Processing ,16600000,operating,IND,Bangalore,Bangalore,1,11/1/2011,1988-01,1,1988-Q1,2011,6/11/2013,4/5/2014,0,16600000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+makemyreturns.com, Finance , NA   ,operating,IND,Mumbai,Mumbai,1,11/20/2011,2012-04,2,2012-Q2,2011,6/13/2013,1/1/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MakeMyTrip.com, Transportation ,28000000,operating,IND,New Delhi,Gurgaon,2,12/1/2011,2000-01,1,2000-Q1,2011,6/13/2013,10/8/2007,0,28000000,0,0,0,0,0,0,0,0,0,0,0,0,13000000,15000000,0,0,0,0,0
+Manas Informatic, Media ,160000,operating,IND,Mohali,Mohali,1,12/15/2011,2007-05,2,2007-Q2,2011,6/14/2013,2/2/2008,0,160000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mango Games, Games , NA   ,operating,IND,Hyderabad,Hyderabad,1,12/29/2011,2011-01,1,2011-Q1,2011,6/17/2013,2/14/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manipal Acunova, Biotechnology , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/2012,,,,2012,6/17/2013,12/2/2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manthan Systems, Analytics ,56700000,operating,IND,Bangalore,Bangalore,6,1/1/2012,2003-01,1,2003-Q1,2012,6/20/2013,1/1/2013,0,56700000,0,0,0,0,0,0,0,0,0,0,0,5700000,30000000,15000000,4000000,0,0,0,0
+MapMyIndia, E-Commerce , NA   ,operating,IND,New Delhi,New Delhi,1,1/1/2012,1992-01,1,1992-Q1,2012,6/20/2013,1/1/2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Master Equation, iPhone ,"50,000",operating,IND,Pune,Pune,1,1/1/2012,2010-02,1,2010-Q1,2012,6/21/2013,2/15/2013,50000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Matrimony.com, Classifieds ,20400000,operating,IND,Chennai,Chennai,2,1/1/2012,1997-04,2,1997-Q2,2012,6/24/2013,2/6/2008,0,20400000,0,0,0,0,0,0,0,0,0,0,0,8650000,11750000,0,0,0,0,0,0
+Mayur Uniquoters Limited, Manufacturing ,18000000,operating,IND,Jaipur,Jaipur,1,1/1/2012,1994-01,1,1994-Q1,2012,6/26/2013,3/19/2014,0,18000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meal Mantra, Hospitality ,"10,000",operating,IND,Hyderabad,Hyderabad,1,1/1/2012,2014-01,1,2014-Q1,2012,6/28/2013,1/14/2014,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mealnut, Marketplaces ,"12,000",operating,IND,Pune,Pune,1,1/1/2012,2012-09,3,2012-Q3,2012,6/28/2013,9/1/2012,12000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Medgenome Labs, Medical ,4000000,operating,IND,Bangalore,Bangalore,1,1/1/2012,,,,2012,6/30/2013,6/4/2014,0,4000000,0,0,0,0,0,0,0,0,0,0,0,4000000,0,0,0,0,0,0,0
+Media Redefined, News ,4475000,operating,IND,New Delhi,Noida,2,1/1/2012,2009-01,1,2009-Q1,2012,7/1/2013,5/2/2014,2250000,0,0,0,2225000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MediAngels, Hospitality ,1000000,operating,IND,Mumbai,Mumbai,1,1/1/2012,,,,2012,7/1/2013,10/10/2014,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Medine, Restaurants ,"60,000",operating,IND,Bangalore,Bengaluru,1,1/1/2012,,,,2012,7/2/2013,7/22/2013,0,0,0,60000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meditrina Hospital, Hospitality ,6000000,operating,IND,Thiruvananthapuram,Thiruvananthapuram,1,1/1/2012,2010-03,1,2010-Q1,2012,7/3/2013,9/5/2013,0,6000000,0,0,0,0,0,0,0,0,0,0,0,6000000,0,0,0,0,0,0,0
+Medypal, Health Care ,400000,operating,IND,Bangalore,Bangalore,1,1/1/2012,2013-01,1,2013-Q1,2012,7/4/2013,1/8/2014,400000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MeraJob India, Information Technology ,3000000,operating,IND,New Delhi,New Delhi,1,1/1/2012,2012-08,3,2012-Q3,2012,7/8/2013,2/10/2014,3000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metro Telworks, Mobile ,4880000,operating,IND,Ahmedabad,Ahmedabad,1,1/1/2012,2004-01,1,2004-Q1,2012,7/8/2013,1/5/2010,0,4880000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mettl, Software ,4430000,operating,IND,New Delhi,Gurgaon,3,1/1/2012,2009-09,3,2009-Q3,2012,7/8/2013,8/13/2012,80000,4000000,0,0,0,0,350000,0,0,0,0,0,0,4000000,0,0,0,0,0,0,0
+mGaadi, Public Transportation , NA   ,operating,IND,IND - Other,Kormangala,1,1/1/2012,,,,2012,7/8/2013,5/12/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Micro Housing Finance Corporation Limited, Finance ,5400000,operating,IND,Mumbai,Mumbai,1,1/1/2012,2008-05,2,2008-Q2,2012,7/9/2013,9/16/2013,0,0,0,0,0,0,0,0,5400000,0,0,0,0,0,0,0,0,0,0,0,0
+Microland, Analytics ,18300000,operating,IND,Bangalore,Bangalore,2,1/1/2012,1989-01,1,1989-Q1,2012,7/10/2013,8/9/2006,0,18300000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Micromax Informatics, Mobile ,88000000,operating,IND,New Delhi,Gurgaon,2,1/1/2012,1991-01,1,1991-Q1,2012,7/10/2013,9/20/2010,0,88000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mii - made in india,,250000,operating,IND,New Delhi,New Delhi,1,1/1/2012,2014-08,3,2014-Q3,2012,7/15/2013,8/10/2014,250000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Milk Mantra, Health and Wellness ,13080000,operating,IND,Bhubaneswar,Bhubaneswar,2,1/1/2012,,,,2012,7/15/2013,6/30/2014,0,13080000,0,0,0,0,0,0,0,0,0,0,0,0,0,13080000,0,0,0,0,0
+Minglebox, Social Media ,7000000,operating,IND,Bangalore,Bangalore,1,1/1/2012,2006-01,1,2006-Q1,2012,7/17/2013,5/1/2007,0,7000000,0,0,0,0,0,0,0,0,0,0,0,7000000,0,0,0,0,0,0,0
+MobiKwik, Payments ,30250000,operating,IND,New Delhi,Gurgaon,2,1/1/2012,2009-08,3,2009-Q3,2012,7/18/2013,11/5/2014,250000,30000000,0,0,0,0,0,0,0,0,0,0,0,0,30000000,0,0,0,0,0,0
+Mobile2Win India, Mobile ,15000000,operating,IND,Mumbai,Mumbai,1,1/1/2012,,,,2012,7/19/2013,11/13/2006,0,15000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MobileVeda, Mobile ,"9,000",operating,IND,Vellore,Vellore,1,1/1/2012,2007-01,1,2007-Q1,2012,7/22/2013,4/1/2007,9000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mobME Solutions, Mobile ,3400000,operating,IND,Cochin,Cochin,3,1/1/2012,2006-12,4,2006-Q4,2012,7/22/2013,1/14/2014,0,0,0,0,0,0,3400000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MobStac, Mobile ,2000000,operating,IND,Bangalore,Bangalore,1,1/1/2012,2009-06,2,2009-Q2,2012,7/23/2013,12/1/2013,0,2000000,0,0,0,0,0,0,0,0,0,0,0,0,2000000,0,0,0,0,0,0
+Mobule, Education , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/2012,2013-05,2,2013-Q2,2012,7/23/2013,1/20/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Modern Family Doctor, Health Care , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/2012,,,,2012,7/23/2013,2/20/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Momoe Technologies, Mobile Payments , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/2012,2014-01,1,2014-Q1,2012,7/25/2013,10/20/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Monarch Innovative Technologies, Software ,5500000,operating,IND,Mumbai,Mumbai,1,1/1/2012,1984-01,1,1984-Q1,2012,7/25/2013,9/28/2010,0,5500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Money On Mobile, Mobile ,10000000,operating,IND,Mumbai,Mumbai,1,1/1/2012,2010-01,1,2010-Q1,2012,7/26/2013,9/16/2013,0,10000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Money-Wizards, Finance , NA   ,operating,IND,Chennai,Chennai,1,1/1/2012,,,,2012,7/26/2013,10/22/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Moser Baer Solar, Clean Technology ,92500000,operating,IND,New Delhi,New Delhi,1,1/1/2012,,,,2012,7/29/2013,9/4/2008,0,92500000,0,0,0,0,0,0,0,0,0,0,0,0,92500000,0,0,0,0,0,0
+Motorpaneer, Automotive ,"40,000",operating,IND,New Delhi,New Delhi,1,1/1/2012,2013-08,3,2013-Q3,2012,7/29/2013,8/23/2013,40000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MoveInSync, Software ,4000000,operating,IND,Bangalore,Bangalore,1,1/1/2012,2009-01,1,2009-Q1,2012,8/1/2013,8/7/2014,0,4000000,0,0,0,0,0,0,0,0,0,0,0,4000000,0,0,0,0,0,0,0
+Mowbly, Mobility , NA   ,operating,IND,Hyderabad,Hyderabad,1,1/1/2012,2011-05,2,2011-Q2,2012,8/1/2013,3/31/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mswipe Technologies, E-Commerce , NA   ,operating,IND,Mumbai,Mumbai,2,1/1/2012,,,,2012,8/1/2013,2/3/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+muHive, Social CRM ,"30,000",operating,IND,Bangalore,Bangalore,1,1/1/2012,2012-06,2,2012-Q2,2012,8/3/2013,2/1/2014,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Multistory Learning, Education ,"45,000",operating,IND,Chennai,Chennai,1,1/1/2012,2011-01,1,2011-Q1,2012,8/5/2013,1/3/2013,45000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Must See India, Travel ,5000000,operating,IND,Bangalore,Bangalore,1,1/1/2012,2007-11,4,2007-Q4,2012,8/5/2013,7/2/2013,5000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mydala, E-Commerce ,6000000,operating,IND,New Delhi,New Delhi,1,1/1/2012,2009-11,4,2009-Q4,2012,8/6/2013,9/25/2011,0,6000000,0,0,0,0,0,0,0,0,0,0,0,6000000,0,0,0,0,0,0,0
+MyDentist, Health Care ,10000000,operating,IND,Mumbai,Mumbai,1,1/1/2012,,,,2012,8/7/2013,1/1/2013,0,10000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+myeasydocs, Document Management ,1000000,operating,IND,Chennai,Chennai,1,1/1/2012,,,,2012,8/7/2013,9/24/2014,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Myfriday, Human Resource Automation , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/2012,2012-01,1,2012-Q1,2012,8/9/2013,1/1/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MyLabYogi.com, Health and Wellness , NA   ,operating,IND,Mumbai,Mumbai,1,1/1/2012,2012-01,1,2012-Q1,2012,8/11/2013,9/16/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MyNewDeals.com, Hotels ,200000,operating,IND,Ahmedabad,Ahmedabad,1,1/1/2012,2011-05,2,2011-Q2,2012,8/12/2013,1/1/2010,200000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+myNoticePeriod.com, Recruiting ,"5,453",operating,IND,Bangalore,Bangalore,1,1/1/2012,2013-05,2,2013-Q2,2012,8/13/2013,9/4/2014,5453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Myntra, E-Commerce ,158750000,,IND,Bangalore,Bangalore,9,1/1/2012,2007-01,1,2007-Q1,2012,8/13/2013,1/31/2014,0,158750000,0,0,0,0,0,0,0,0,0,0,0,5000000,25000000,20750000,25000000,8000000,0,0,0
+MyParichay, Facebook Applications ,250000,operating,IND,Bangalore,Bangalore,1,1/1/2012,2012-04,2,2012-Q2,2012,8/13/2013,10/1/2011,250000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MyRefers, Employment ,100000,operating,IND,Mumbai,Mumbai,2,1/1/2012,2013-04,2,2013-Q2,2012,8/14/2013,10/15/2014,100000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Myshaadi.in, Curated Web , NA   ,operating,IND,New Delhi,New Delhi,1,1/1/2012,2011-02,1,2011-Q1,2012,8/14/2013,4/1/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mYwindow, Mobile ,115000,operating,IND,Nagpur,Nagpur,2,1/1/2012,2013-01,1,2013-Q1,2012,8/19/2013,11/20/2012,115000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Naabo Solutions, Software , NA   ,closed,IND,Bangalore,Bangalore,1,1/1/2012,2007-01,1,2007-Q1,2012,8/20/2013,8/13/2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+naaptol, E-Commerce , NA   ,operating,IND,Mumbai,Mumbai,1,1/1/2012,2008-01,1,2008-Q1,2012,8/21/2013,8/18/2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NationWide Primary Healthcare Services, Health and Wellness ,1000000,operating,IND,Bangalore,Bangalore,1,1/1/2012,2010-03,1,2010-Q1,2012,8/23/2013,9/25/2013,0,0,0,0,0,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nazara Technologies, Mobile ,9301500,operating,IND,Mumbai,Mumbai,3,1/1/2012,2000-01,1,2000-Q1,2012,8/23/2013,11/28/2013,0,9301500,0,0,0,0,0,0,0,0,0,0,0,1500000,7000000,0,0,0,0,0,0
+Near Page, Advertising ,"10,000",operating,IND,Bangalore,Bangalore,1,1/1/2012,2013-10,4,2013-Q4,2012,8/26/2013,8/11/2013,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nearbuyme.in, E-Commerce , NA   ,operating,IND,IND - Other,Hyderabad-deccan,1,1/3/2012,2014-10,4,2014-Q4,2012,8/26/2013,11/8/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neogrowth, Finance ,1620000,operating,IND,Mumbai,Mumbai,1,1/4/2012,2010-01,1,2010-Q1,2012,8/26/2013,3/26/2014,0,1620000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NephroPlus, Health and Wellness ,14000000,operating,IND,Hyderabad,Hyderabad,2,1/24/2012,2009-01,1,2009-Q1,2012,8/26/2013,3/5/2014,0,14000000,0,0,0,0,0,0,0,0,0,0,0,4000000,10000000,0,0,0,0,0,0
+NeST Group, Software ,22250000,operating,IND,Cochin,Cochin,1,1/26/2012,1991-01,1,1991-Q1,2012,8/27/2013,1/1/2006,0,22250000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Net Avenue Technologies, Internet , NA   ,operating,IND,Chennai,Chennai,1,1/26/2012,1998-01,1,1998-Q1,2012,8/29/2013,11/5/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Netmagic Solutions, Web Hosting ,36000000,acquired,IND,Mumbai,Mumbai,2,1/26/2012,1999-01,1,1999-Q1,2012,8/31/2013,10/7/2010,0,36000000,0,0,0,0,0,0,0,0,0,0,0,0,20000000,16000000,0,0,0,0,0
+Network18, Public Relations ,10000000,acquired,IND,New Delhi,New Delhi,1,2/1/2012,,,,2012,9/1/2013,10/1/2009,0,10000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Newgen Software Technologies, Software ,25260000,operating,IND,New Delhi,New Delhi,2,2/1/2012,1992-01,1,1992-Q1,2012,9/2/2013,2/3/2014,0,25260000,0,0,0,0,0,0,0,0,0,0,0,0,0,17610000,0,0,0,0,0
+News in Shorts, News , NA   ,operating,IND,New Delhi,New Delhi,1,2/7/2012,2013-04,2,2013-Q2,2012,9/3/2013,7/14/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NewsHunt, News ,18000000,operating,IND,Bangalore,Bangalore,1,2/21/2012,,,,2012,9/3/2013,9/22/2014,0,18000000,0,0,0,0,0,0,0,0,0,0,0,0,18000000,0,0,0,0,0,0
+nivio, Cloud Data Services ,21000000,closed,IND,New Delhi,Gurgaon,1,3/3/2012,2004-12,4,2004-Q4,2012,9/5/2013,2/9/2012,0,21000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nobel Hygiene, E-Commerce ,11500000,operating,IND,Mumbai,Mumbai,1,3/6/2012,2001-01,1,2001-Q1,2012,9/5/2013,3/8/2013,0,11500000,0,0,0,0,0,0,0,0,0,0,0,11500000,0,0,0,0,0,0,0
+Nogle Technologies, Curated Web ,250000,operating,IND,New Delhi,Noida,1,3/17/2012,2011-01,1,2011-Q1,2012,9/6/2013,3/1/2011,0,0,0,0,0,0,250000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NoPaperForms.com, Software ,500000,operating,IND,Thane,Thane,1,3/20/2012,2010-01,1,2010-Q1,2012,9/12/2013,7/1/2011,0,0,0,0,0,0,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nova Specialty Hospitals, Health Care ,54000000,operating,IND,Bangalore,Bengaluru,1,3/30/2012,2009-01,1,2009-Q1,2012,9/13/2013,8/13/2012,0,0,0,0,0,0,0,0,54000000,0,0,0,0,0,0,0,0,0,0,0,0
+NSL Renewable Power, Clean Technology ,5000000,operating,IND,Hyderabad,Hyderabad,1,4/1/2012,1985-01,1,1985-Q1,2012,9/16/2013,5/29/2013,0,5000000,0,0,0,0,0,0,0,0,0,0,0,5000000,0,0,0,0,0,0,0
+NxtGen Data Center & Cloud Services, Software ,8800000,operating,IND,Bangalore,Bangalore,1,4/1/2012,2012-01,1,2012-Q1,2012,9/16/2013,9/2/2013,0,8800000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nykaa, Fashion ,3400000,operating,IND,Mumbai,Mumbai,1,4/1/2012,,,,2012,9/16/2013,7/3/2014,0,3400000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Octro, Online Gaming ,15000000,operating,IND,Delhi,Delhi,1,4/1/2012,2006-01,1,2006-Q1,2012,9/18/2013,6/4/2014,0,15000000,0,0,0,0,0,0,0,0,0,0,0,15000000,0,0,0,0,0,0,0
+Ola (ANI Technologies Pvt. Ltd.), Transportation ,276830000,operating,IND,Bangalore,Bangalore,5,4/13/2012,2010-12,4,2010-Q4,2012,9/20/2013,10/25/2014,0,276500000,0,0,0,0,330000,0,0,0,0,0,0,5000000,20000000,41500000,210000000,0,0,0,0
+Olah-Viq Software Solutions, Web Development , NA   ,closed,IND,Chennai,Chennai,1,4/17/2012,2010-07,3,2010-Q3,2012,9/24/2013,12/10/2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Omni Hospitals, Biotechnology ,9800000,operating,IND,Hyderabad,Hyderabad,1,4/18/2012,2010-01,1,2010-Q1,2012,9/24/2013,8/7/2013,0,9800000,0,0,0,0,0,0,0,0,0,0,0,9800000,0,0,0,0,0,0,0
+One97 Communications, Mobile ,35000000,operating,IND,New Delhi,New Delhi,3,5/1/2012,2000-12,4,2000-Q4,2012,9/25/2013,10/10/2011,0,35000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OneAssist Consumer Solutions, Security , NA   ,,IND,Mumbai,Mumbai,2,5/1/2012,2011-06,2,2011-Q2,2012,9/25/2013,6/1/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OneBreath, Consulting ,3000000,operating,IND,Bangalore,Bangalore,2,5/1/2012,,,,2012,9/30/2013,1/28/2014,0,3000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Online Prasad, E-Commerce , NA   ,operating,IND,Bangalore,Bangalore,2,5/1/2012,2012-01,1,2012-Q1,2012,9/30/2013,10/13/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OrangeScape, Cloud Computing ,1000000,,IND,Chennai,Chennai,1,6/1/2012,2003-12,4,2003-Q4,2012,10/2/2013,5/1/2012,0,0,0,0,0,0,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oravel, Travel , NA   ,operating,IND,New Delhi,New Delhi,2,6/1/2012,2012-02,1,2012-Q1,2012,10/3/2013,3/6/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Orbster, Mobile ,736050,operating,IND,Bangalore,Bangalore,1,6/1/2012,2008-01,1,2008-Q1,2012,10/4/2013,1/1/2008,736050,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Organic Shop, E-Commerce ,"50,000",operating,IND,Jaipur,Jaipur,1,6/1/2012,2011-01,1,2011-Q1,2012,10/4/2013,8/12/2013,0,0,0,0,0,0,50000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Orient Green Power, Clean Technology ,55000000,operating,IND,Chennai,Chennai,1,6/1/2012,2007-01,1,2007-Q1,2012,10/9/2013,11/26/2008,0,0,0,0,0,0,0,0,55000000,0,0,0,0,0,0,0,0,0,0,0,0
+Ozone Media Solutions, Curated Web ,7800000,operating,IND,Mumbai,Mumbai,3,6/7/2012,2006-01,1,2006-Q1,2012,10/9/2013,9/1/2012,0,7800000,0,0,0,0,0,0,0,0,0,0,0,2300000,1500000,0,0,0,0,0,0
+Paladion, Enterprise Software ,10000000,operating,IND,Bangalore,Bangalore,1,6/20/2012,2000-01,1,2000-Q1,2012,10/10/2013,6/18/2014,0,10000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parallocity, Analytics , NA   ,closed,IND,Bangalore,Bangalore,2,7/1/2012,,,,2012,10/11/2013,11/11/2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PayMate India, E-Commerce ,14000000,operating,IND,Mumbai,Mumbai,2,7/4/2012,2006-01,1,2006-Q1,2012,10/17/2013,6/1/2008,0,14000000,0,0,0,0,0,0,0,0,0,0,0,5000000,9000000,0,0,0,0,0,0
+Peel-Works, Human Resources ,2000000,operating,IND,Mumbai,Mumbai,1,7/4/2012,2010-09,3,2010-Q3,2012,10/17/2013,7/28/2014,0,2000000,0,0,0,0,0,0,0,0,0,0,0,2000000,0,0,0,0,0,0,0
+People Interactive (India), Curated Web ,8000000,operating,IND,Mumbai,Mumbai,1,7/12/2012,,,,2012,10/18/2013,3/10/2006,0,8000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pepperfry.com, E-Commerce ,28000000,operating,IND,Mumbai,Mumbai,3,7/15/2012,2011-01,1,2011-Q1,2012,10/18/2013,5/27/2014,0,28000000,0,0,0,0,0,0,0,0,0,0,0,5000000,8000000,15000000,0,0,0,0,0
+Perfint Healthcare, Biotechnology ,32700000,operating,IND,Chennai,Chennai,4,7/15/2012,2005-01,1,2005-Q1,2012,10/22/2013,1/1/2013,0,32700000,0,0,0,0,0,0,0,0,0,0,0,3500000,7200000,8000000,14000000,0,0,0,0
+Perpetuuiti TechnoSoft Services, Software , NA   ,operating,IND,New Delhi,Gurgaon,1,8/1/2012,2011-01,1,2011-Q1,2012,10/22/2013,10/23/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phone Warrior, Mobile ,550000,operating,IND,New Delhi,New Delhi,1,8/1/2012,2012-01,1,2012-Q1,2012,10/23/2013,12/9/2013,550000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phonethics Mobile Media, Internet ,200000,operating,IND,Mumbai,Mumbai,1,8/1/2012,2006-01,1,2006-Q1,2012,10/24/2013,5/7/2007,0,0,0,0,0,0,200000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plash Digital Labs, Mobile ,160000,operating,IND,Bangalore,Bangalore,1,8/1/2012,2012-12,4,2012-Q4,2012,10/25/2013,3/1/2013,160000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Playcez, Mobile ,530000,closed,IND,New Delhi,New Delhi,2,8/1/2012,2010-01,1,2010-Q1,2012,10/28/2013,3/8/2013,530000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pluss Polymers, Biotechnology ,2400000,operating,IND,Haryana,Haryana,1,8/6/2012,1993-01,1,1993-Q1,2012,10/31/2013,7/8/2013,0,2400000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+POKKT, Games ,2500000,operating,IND,Mumbai,Mumbai,2,8/13/2012,2012-08,3,2012-Q3,2012,10/31/2013,7/8/2014,0,2500000,0,0,0,0,0,0,0,0,0,0,0,2500000,0,0,0,0,0,0,0
+PolicyBazaar, Finance ,29600000,operating,IND,New Delhi,Gurgaon,4,8/15/2012,2008-01,1,2008-Q1,2012,11/1/2013,5/26/2014,0,29600000,0,0,0,0,0,0,0,0,0,0,0,4600000,5000000,20000000,0,0,0,0,0
+Polygenta Technologies, Textiles ,3600000,operating,IND,Mumbai,Mumbai,1,8/30/2012,,,,2012,11/2/2013,7/21/2014,0,3600000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Portea Medical, Health Care ,8000000,operating,IND,Bangalore,Bangalore,2,9/1/2012,,,,2012,11/4/2013,7/31/2014,0,0,0,0,0,0,0,0,8000000,0,0,0,0,0,0,0,0,0,0,0,0
+PoshVine, Curated Web , NA   ,operating,IND,Bangalore,Bangalore,1,9/1/2012,2011-10,4,2011-Q4,2012,11/7/2013,6/26/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Power2SME, Enterprise Software ,14800000,operating,IND,Mumbai,Mumbai,3,9/1/2012,2012-01,1,2012-Q1,2012,11/8/2013,9/15/2014,0,14800000,0,0,0,0,0,0,0,0,0,0,0,2000000,6000000,6800000,0,0,0,0,0
+PowerStores, Hardware + Software ,2000000,,IND,Goa,Goa,1,9/1/2012,2011-01,1,2011-Q1,2012,11/12/2013,7/15/2013,2000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Practo Technologies Pvt. Ltd, Health Care ,24000000,operating,IND,Bangalore,Bangalore,2,9/29/2012,2008-05,2,2008-Q2,2012,11/13/2013,8/6/2014,0,24000000,0,0,0,0,0,0,0,0,0,0,0,4000000,20000000,0,0,0,0,0,0
+Press Play, Startups ,500000,operating,IND,New Delhi,New Delhi,1,10/1/2012,2013-12,4,2013-Q4,2012,11/14/2013,8/20/2014,0,0,0,0,0,0,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PressConnect, News ,500000,closed,IND,Bangalore,Bangalore,1,10/25/2012,2012-01,1,2012-Q1,2012,11/18/2013,1/1/2012,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PriceBaba, Search , NA   ,operating,IND,Mumbai,Mumbai,1,11/1/2012,2012-01,1,2012-Q1,2012,11/19/2013,5/14/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PriceBurp, Shopping ,100000,operating,IND,Mumbai,Mumbai,1,11/1/2012,2010-03,1,2010-Q1,2012,11/20/2013,10/20/2014,100000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Prime Focus, Games ,53000000,operating,IND,IND - Other,Goregaon,1,11/1/2012,1997-01,1,1997-Q1,2012,11/20/2013,6/21/2013,0,0,0,0,0,0,0,0,53000000,0,0,0,0,0,0,0,0,0,0,0,0
+Prime Focus Technologies, Software ,7500000,operating,IND,Mumbai,Mumbai,1,11/1/2012,2008-01,1,2008-Q1,2012,11/20/2013,4/9/2014,0,7500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Printland, E-Commerce ,810094,operating,IND,New Delhi,New Delhi,1,11/1/2012,2011-10,4,2011-Q4,2012,11/21/2013,9/20/2013,0,810094,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Private Company, Social Media , NA   ,operating,IND,Mumbai,Mumbai,1,11/1/2012,,,,2012,11/21/2013,3/31/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Prizm Payment Services, Finance ,8000000,acquired,IND,Chennai,Chennai,1,11/1/2012,2008-01,1,2008-Q1,2012,11/26/2013,8/5/2011,0,8000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Profoundis Labs, Social Media ,"40,000",operating,IND,Kochi,Kochi,1,11/19/2012,2012-06,2,2012-Q2,2012,11/27/2013,12/17/2013,40000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PropTiger, Real Estate ,30000000,operating,IND,New Delhi,Noida,1,11/27/2012,2011-02,1,2011-Q1,2012,11/27/2013,11/25/2014,0,30000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Purple Squirrel,,300000,operating,IND,IND - Other,Bombay,1,11/29/2012,,,,2012,11/27/2013,7/1/2014,300000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Purplle, E-Commerce , NA   ,operating,IND,Mumbai,Mumbai,1,12/1/2012,2011-09,3,2011-Q3,2012,11/28/2013,8/26/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+QED | EVEREST EDUSYS AND SOLUTIONS,,941697,operating,IND,Chennai,Chennai,1,12/12/2012,,,,2012,11/29/2013,3/24/2014,0,941697,0,0,0,0,0,0,0,0,0,0,0,941697,0,0,0,0,0,0,0
+Qikwell Technologies, Mobile Health ,3000000,operating,IND,Bangalore,Bangalore,2,12/24/2012,2011-09,3,2011-Q3,2012,12/1/2013,11/24/2014,0,3000000,0,0,0,0,0,0,0,0,0,0,0,3000000,0,0,0,0,0,0,0
+Quartz Solutions,, NA   ,operating,IND,Aurangabad,Aurangabad,1,1/1/2013,2003-03,1,2003-Q1,2013,12/1/2013,1/18/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quick Heal Technologies, Software ,13000000,operating,IND,Pune,Pune,1,1/1/2013,,,,2013,12/2/2013,8/18/2010,0,13000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+QuickoLabs, Internet Marketing ,340000,operating,IND,Bangalore,Bangalore,2,1/1/2013,2010-10,4,2010-Q4,2013,12/2/2013,10/6/2014,40000,0,0,0,300000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quikr India, Curated Web ,196000000,operating,IND,Mumbai,Mumbai,5,1/1/2013,2008-01,1,2008-Q1,2013,12/4/2013,9/17/2014,0,196000000,0,0,0,0,0,0,0,0,0,0,0,0,0,6000000,8000000,32000000,90000000,60000000,0
+Quippo Infrastructure, Clean Technology ,113300000,operating,IND,New Delhi,New Delhi,1,1/1/2013,,,,2013,12/4/2013,8/12/2008,0,0,0,0,0,0,0,0,113300000,0,0,0,0,0,0,0,0,0,0,0,0
+Qyuki, Creative ,5400000,operating,IND,Bangalore,Bangalore,1,1/1/2013,2011-06,2,2011-Q2,2013,12/5/2013,2/14/2012,0,5400000,0,0,0,0,0,0,0,0,0,0,0,5400000,0,0,0,0,0,0,0
+RailYatri, Apps ,486000,operating,IND,New Delhi,Noida,1,1/1/2013,,,,2013,12/6/2013,11/20/2014,0,486000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rainbow Hospitals, Biotechnology ,19500000,operating,IND,Hyderabad,Hyderabad,1,1/1/2013,1996-01,1,1996-Q1,2013,12/6/2013,8/13/2013,0,19500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ReachTax, Finance , NA   ,operating,IND,Chennai,Chennai,1,1/1/2013,,,,2013,12/8/2013,8/13/2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Real Image Media Technologies, Hardware + Software ,16000000,operating,IND,Chennai,Chennai,1,1/1/2013,1986-01,1,1986-Q1,2013,12/9/2013,8/1/2008,0,16000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Realty Compass, Real Estate , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/2013,2012-01,1,2012-Q1,2013,12/9/2013,11/27/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reasoning Global eApplications Ltd., E-Commerce ,2550000,operating,IND,Hyderabad,Hyderabad,2,1/1/2013,2008-01,1,2008-Q1,2013,12/9/2013,1/1/2009,0,1550000,0,0,0,0,1000000,0,0,0,0,0,0,1550000,0,0,0,0,0,0,0
+Red Panda Innovation Labs, Mobile ,500000,operating,IND,Mumbai,Mumbai,1,1/1/2013,2012-11,4,2012-Q4,2013,12/11/2013,9/1/2011,0,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+redBus.in, Curated Web ,8328770,acquired,IND,Mumbai,Mumbai,3,1/1/2013,2006-01,1,2006-Q1,2013,12/12/2013,5/1/2012,0,8118770,0,0,0,0,0,0,0,0,0,210000,0,0,1690000,6428770,0,0,0,0,0
+ReelBox Media Entertainment, News , NA   ,operating,IND,IND - Other,Nungambakkam,1,1/1/2013,,,,2013,12/12/2013,12/24/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+regrob.com, Real Estate ,"2,000",operating,IND,New Delhi,Noida,1,1/1/2013,2008-02,1,2008-Q1,2013,12/13/2013,5/30/2013,0,0,0,0,0,2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Relevant e-solution, Online Shopping ,1000000,operating,IND,New Delhi,Gurgaon,1,1/1/2013,2012-01,1,2012-Q1,2013,12/15/2013,6/24/2014,0,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reliance Jio Infocomm Ltd., Development Platforms ,2250000000,operating,IND,Mumbai,Mumbai,2,1/1/2013,2007-01,1,2007-Q1,2013,12/16/2013,11/17/2014,0,0,0,0,0,2250000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ReNew Power, Clean Technology ,275000000,operating,IND,New Delhi,Gurgaon,2,1/1/2013,2011-01,1,2011-Q1,2013,12/16/2013,7/3/2014,0,0,0,0,0,0,0,0,275000000,0,0,0,0,0,0,0,0,0,0,0,0
+reQall, Hardware ,2500000,operating,IND,Hyderabad,Hyderabad,1,1/1/2013,2007-01,1,2007-Q1,2013,12/16/2013,1/1/2006,2500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Revantha Technologies, Image Recognition ,150000,operating,IND,Chennai,Chennai,1,1/1/2013,2000-01,1,2000-Q1,2013,12/16/2013,7/10/2012,150000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reviews42, Reviews and Recommendations ,5000000,operating,IND,New Delhi,New Delhi,1,1/1/2013,2010-12,4,2010-Q4,2013,12/17/2013,7/7/2014,0,5000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RHLvision Technologies, Software ,200000,operating,IND,Ernakulam,Ernakulam,2,1/1/2013,2012-01,1,2012-Q1,2013,12/17/2013,3/10/2014,0,0,0,0,0,0,0,0,0,0,0,0,200000,0,0,0,0,0,0,0,0
+Rishi Mining Resources, Minerals ,150000,operating,IND,Bhubaneswar,Bhubaneswar,1,1/1/2013,,,,2013,12/17/2013,4/1/2014,150000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RiverSilica,,1500000,operating,IND,Bangalore,Bangalore,1,1/1/2013,,,,2013,12/17/2013,12/1/2014,0,1500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Robotic Wares, Market Research ,500000,operating,IND,New Delhi,New Delhi,1,1/1/2013,,,,2013,12/17/2013,9/10/2014,0,0,0,0,0,0,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RobotsAlive, Hardware + Software , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/2013,,,,2013,12/18/2013,8/13/2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rolocule Games, Games , NA   ,operating,IND,Pune,Pune,1,1/1/2013,,,,2013,12/18/2013,5/31/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Room n House, Travel ,166396,operating,IND,Mumbai,Mumbai,1,1/1/2013,2012-11,4,2012-Q4,2013,12/20/2013,7/16/2014,0,166396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roposo, E-Commerce ,1000000,operating,IND,New Delhi,Gurgaon,1,1/1/2013,2012-01,1,2012-Q1,2013,12/24/2013,7/8/2014,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rose Island, Shopping ,"10,000",operating,IND,Chandigarh,Chandigarh,1,1/1/2013,2013-03,1,2013-Q1,2013,1/1/2014,11/4/2013,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roshini International Bio Energy, Clean Technology ,1040000,operating,IND,Hyderabad,Hyderabad,1,1/1/2013,1996-01,1,1996-Q1,2013,1/1/2014,4/10/2008,0,1040000,0,0,0,0,0,0,0,0,0,0,0,0,1040000,0,0,0,0,0,0
+Royal Yatri Holidays, Travel & Tourism , NA   ,operating,IND,New Delhi,Noida,1,1/1/2013,2013-12,4,2013-Q4,2013,1/2/2014,7/26/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RupeeTimes, Finance , NA   ,operating,IND,New Delhi,Gurgaon,1,1/1/2013,2007-09,3,2007-Q3,2013,1/7/2014,1/1/2000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RxVault.in, Mobile ,"10,000",operating,IND,New Delhi,New Delhi,1,1/1/2013,2013-01,1,2013-Q1,2013,1/7/2014,7/1/2013,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SAMHI Hotels, Finance ,75000000,operating,IND,New Delhi,Gurgaon,1,1/1/2013,,,,2013,1/7/2014,11/4/2011,0,0,0,0,0,0,0,0,75000000,0,0,0,0,0,0,0,0,0,0,0,0
+Sanghvi, Real Estate ,10000000,operating,IND,Pune,Pune,1,1/12/2013,2010-01,1,2010-Q1,2013,1/8/2014,3/10/2014,0,10000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sapience Analytics Private Limited, Human Resources ,8148255,operating,IND,Pune,Pune,2,1/17/2013,2009-01,1,2009-Q1,2013,1/8/2014,10/13/2014,0,8148255,0,0,0,0,0,0,0,0,0,0,0,748255,7400000,0,0,0,0,0,0
+Saraf Foods, Hospitality ,1600000,operating,IND,Vadodara,Vadodara,1,1/22/2013,,,,2013,1/9/2014,1/28/2014,0,1600000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Satin Creditcare Network Limited (SCNL), Nonprofits ,4700000,operating,IND,New Delhi,New Delhi,1,2/1/2013,,,,2013,1/12/2014,4/7/2014,0,4700000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SatNav Technologies, Public Transportation ,7000000,closed,IND,Hyderabad,Hyderabad,1,2/18/2013,2004-01,1,2004-Q1,2013,1/13/2014,5/14/2008,0,7000000,0,0,0,0,0,0,0,0,0,0,0,7000000,0,0,0,0,0,0,0
+Savaari Car Rentals, Public Transportation ,28000000,operating,IND,Bangalore,Bangalore,2,3/1/2013,2006-01,1,2006-Q1,2013,1/14/2014,10/24/2013,0,28000000,0,0,0,0,0,0,0,0,0,0,0,1000000,27000000,0,0,0,0,0,0
+Scandid, Price Comparison , NA   ,operating,IND,Pune,Pune,1,3/1/2013,2012-01,1,2012-Q1,2013,1/14/2014,5/21/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+School Admissions, High Schools ,"50,000",operating,IND,New Delhi,New Delhi,1,3/10/2013,2012-04,2,2012-Q2,2013,1/18/2014,4/15/2013,50000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scion Global, Clean Technology ,187000,operating,IND,Bangalore,Bangalore,1,3/25/2013,,,,2013,1/20/2014,10/15/2009,0,187000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scopial Fashion, Fashion , NA   ,closed,IND,Thane,Thane,1,4/1/2013,2009-01,1,2009-Q1,2013,1/21/2014,8/13/2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SD Motiongraphiks, Software , NA   ,operating,IND,Mumbai,Mumbai,1,4/1/2013,2014-05,2,2014-Q2,2013,1/24/2014,5/17/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seat 14A, E-Commerce , NA   ,operating,IND,New Delhi,New Delhi,1,4/1/2013,2013-02,1,2013-Q1,2013,1/26/2014,4/24/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seclore, Software ,6000000,operating,IND,Mumbai,Mumbai,2,4/1/2013,2005-01,1,2005-Q1,2013,1/27/2014,4/24/2013,0,6000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SectorQube, Consumer Electronics ,"48,000",operating,IND,Ernakulam,Ernakulam,1,4/1/2013,2011-01,1,2011-Q1,2013,1/28/2014,10/5/2014,48000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Securens, Security ,9000000,operating,IND,Mumbai,Mumbai,2,4/1/2013,2012-01,1,2012-Q1,2013,1/30/2014,5/23/2014,0,9000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Securesight Technologies, Information Security ,"10,000",operating,IND,Mumbai,Mumbai,1,4/4/2013,2013-10,4,2013-Q4,2013,1/30/2014,10/17/2013,0,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SEDEMAC Mechatronics, Clean Technology , NA   ,operating,IND,Mumbai,Mumbai,1,4/8/2013,,,,2013,1/31/2014,9/11/2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SeekSherpa, Leisure , NA   ,operating,IND,Delhi,Delhi,1,4/18/2013,,,,2013,2/1/2014,7/14/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Senco Gold, Jewelry ,13000000,operating,IND,IND - Other,Calcutta,1,4/24/2013,1938-01,1,1938-Q1,2013,2/1/2014,10/9/2014,0,0,0,0,0,0,0,0,13000000,0,0,0,0,0,0,0,0,0,0,0,0
+Sentropi, Security ,"40,000",operating,IND,Ahmedabad,Ahmedabad,1,5/1/2013,,,,2013,2/1/2014,8/23/2013,40000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seventymm, E-Commerce ,1800000,operating,IND,Bangalore,Bangalore,1,5/5/2013,2005-01,1,2005-Q1,2013,2/4/2014,8/10/2011,0,1800000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SharesVault, Finance , NA   ,operating,IND,Ahmedabad,Ahmedabad,1,5/8/2013,2010-10,4,2010-Q4,2013,2/5/2014,7/1/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ShieldSquare, Information Security ,350000,operating,IND,Bangalore,Bangalore,1,5/20/2013,2013-01,1,2013-Q1,2013,2/5/2014,10/10/2014,0,0,0,0,0,0,350000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shiram Credit, Finance ,15000000,operating,IND,Chennai,Chennai,1,5/30/2013,,,,2013,2/7/2014,9/18/2011,0,15000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shop pirate, Internet ,"83,053",operating,IND,Hyderabad,Hyderabad,1,5/31/2013,2013-01,1,2013-Q1,2013,2/9/2014,6/19/2014,83053,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+shopatplaces, Lifestyle ,"33,000",operating,IND,New Delhi,New Delhi,1,8/1/2013,2012-01,1,2012-Q1,2013,2/10/2014,5/1/2012,33000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ShopClues.com, E-Commerce ,16250000,operating,IND,New Delhi,Gurgaon,4,8/1/2013,2011-01,1,2011-Q1,2013,2/14/2014,4/5/2013,250000,14000000,0,0,0,0,2000000,0,0,0,0,0,0,4000000,10000000,0,0,0,0,0,0
+Shopo, Fashion , NA   ,acquired,IND,Chennai,Chennai,1,8/1/2013,2011-01,1,2011-Q1,2013,2/17/2014,8/17/2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shopsense, SaaS , NA   ,operating,IND,Mumbai,Mumbai,1,8/10/2013,2012-09,3,2012-Q3,2013,2/18/2014,9/12/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ShopYourWorld, E-Commerce , NA   ,operating,IND,Mumbai,Mumbai,1,8/11/2013,2010-01,1,2010-Q1,2013,2/18/2014,9/18/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shubham Housing Development Finance Company, Real Estate ,28000000,operating,IND,New Delhi,New Delhi,2,9/13/2013,2010-01,1,2010-Q1,2013,2/19/2014,9/9/2014,0,28000000,0,0,0,0,0,0,0,0,0,0,0,0,8000000,20000000,0,0,0,0,0
+Signia Corporate Services, Transportation , NA   ,operating,IND,Bangalore,Bangalore,1,9/24/2013,2010-12,4,2010-Q4,2013,2/20/2014,4/22/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Simpa Networks, Clean Technology ,1100000,operating,IND,Bangalore,Bangalore,1,10/1/2013,2010-03,1,2010-Q1,2013,2/21/2014,11/29/2010,1100000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Simpli5d,, NA   ,operating,IND,New Delhi,Gurgaon,1,10/4/2013,2011-01,1,2011-Q1,2013,2/27/2014,11/13/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Simplibuy Technologies, Curated Web ,403112,operating,IND,Pune,Pune,2,10/5/2013,2010-11,4,2010-Q4,2013,3/1/2014,7/26/2013,403112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Skanray Technologies, Manufacturing ,14750000,operating,IND,Mysore,Mysore,1,10/17/2013,2007-01,1,2007-Q1,2013,3/5/2014,9/3/2013,0,14750000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Skelta Software, Software ,1500000,operating,IND,Bangalore,Bangalore,1,12/1/2013,1997-01,1,1997-Q1,2013,3/7/2014,11/15/2006,0,1500000,0,0,0,0,0,0,0,0,0,0,0,1500000,0,0,0,0,0,0,0
+SkillBoost, Human Computer Interaction , NA   ,operating,IND,New Delhi,New Delhi,1,12/1/2013,2013-12,4,2013-Q4,2013,3/9/2014,4/9/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SkillSonics India, Education ,4000000,operating,IND,Bangalore,Bangalore,1,12/1/2013,2011-02,1,2011-Q1,2013,3/10/2014,6/28/2013,0,0,0,0,0,4000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SkillWiz, Education , NA   ,operating,IND,Bangalore,Bangalore,1,12/7/2013,,,,2013,3/11/2014,10/31/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Skyfi Education Labs, Education , NA   ,operating,IND,Bangalore,Bangalore,1,12/11/2013,2010-01,1,2010-Q1,2013,3/13/2014,3/24/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Skymet Weather Services, Environmental Innovation ,4500000,operating,IND,New Delhi,Noida,1,12/24/2013,2013-01,1,2013-Q1,2013,3/13/2014,8/6/2014,0,4500000,0,0,0,0,0,0,0,0,0,0,0,0,4500000,0,0,0,0,0,0
+Sloka Telecom,,900458,operating,IND,Bangalore,Bangalore,1,1/1/2014,2004-01,1,2004-Q1,2014,3/14/2014,3/1/2011,0,900458,0,0,0,0,0,0,0,0,0,0,0,900458,0,0,0,0,0,0,0
+Smart Commute, Transportation ,550000,operating,IND,Pune,Pune,1,1/1/2014,,,,2014,3/19/2014,5/1/2014,0,0,0,550000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SmartCrowds, Sales and Marketing ,110000,operating,IND,Bangalore,Bangalore,1,1/1/2014,2007-10,4,2007-Q4,2014,3/19/2014,1/1/2008,110000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SmartRx, Software , NA   ,operating,IND,Bangalore,Bangalore,1,1/1/2014,2012-01,1,2012-Q1,2014,3/20/2014,4/1/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Smeam.com, Networking , NA   ,operating,IND,Ahmedabad,Ahmedabad,1,1/14/2014,2014-06,2,2014-Q2,2014,3/24/2014,4/25/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SMS GupShup, Mobile ,22000000,operating,IND,Mumbai,Mumbai,2,2/1/2014,1994-06,2,1994-Q2,2014,3/24/2014,8/31/2011,0,22000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10000000,0,0,0
+Snapdeal, E-Commerce ,1062700000,operating,IND,New Delhi,New Delhi,8,3/9/2014,2010-01,1,2010-Q1,2014,3/26/2014,10/27/2014,0,335700000,0,0,0,0,0,0,727000000,0,0,0,0,12000000,40000000,0,75000000,75000000,133700000,0,0
+Snaplion, Development Platforms ,580000,operating,IND,New Delhi,New Delhi,1,3/10/2014,,,,2014,3/26/2014,3/1/2014,580000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Snowman,,10400000,closed,IND,Bangalore,Bangalore,1,3/25/2014,1996-01,1,1996-Q1,2014,3/26/2014,6/14/2013,0,10400000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Soci Ads, Networking ,"50,000",operating,IND,Mumbai,Mumbai,1,4/7/2014,2011-01,1,2011-Q1,2014,3/28/2014,1/11/2011,50000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SocioSquare, Search Marketing ,325000,operating,IND,Mumbai,Mumbai,1,5/17/2014,2011-01,1,2011-Q1,2014,3/28/2014,8/19/2013,0,0,0,0,0,0,325000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SoftTech Engineers, Software , NA   ,operating,IND,Pune,Pune,1,6/5/2014,,,,2014,3/31/2014,4/3/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sokrati, Internet Marketing ,1030000,operating,IND,Pune,Pune,1,6/16/2014,2009-03,1,2009-Q1,2014,3/31/2014,3/9/2011,0,1030000,0,0,0,0,0,0,0,0,0,0,0,1030000,0,0,0,0,0,0,0
+Somany Ceramics, Manufacturing ,8000000,operating,IND,New Delhi,Noida,1,7/23/2014,1969-01,1,1969-Q1,2014,4/1/2014,2/27/2014,0,8000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Souqalmal, Curated Web ,1200000,operating,IND,IND - Other,Dubai,1,8/10/2014,,,,2014,4/1/2014,12/1/2013,0,1200000,0,0,0,0,0,0,0,0,0,0,0,1200000,0,0,0,0,0,0,0
+Sovereign Developers and Infrastructure Limited, Real Estate , NA   ,operating,IND,Bangalore,Bangalore,1,9/19/2014,,,,2014,4/3/2014,9/1/2009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spayee, Information Technology ,"20,000",operating,IND,Uttar Pradesh,,1,10/1/2014,2014-01,1,2014-Q1,2014,4/5/2014,5/5/2014,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spice Online Retail, Mobile , NA   ,operating,IND,New Delhi,Noida,3,1879-07-24,2010-01,1,2010-Q1,,4/7/2014,1/1/2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spire Technologies, Analytics ,8000000,operating,IND,Bangalore,Bangalore,1,,2008-01,1,2008-Q1,,4/7/2014,12/11/2013,0,8000000,0,0,0,0,0,0,0,0,0,0,0,8000000,0,0,0,0,0,0,0
+Spodly, E-Commerce Platforms , NA   ,operating,IND,Cochin,Cochin,1,,2014-03,1,2014-Q1,,4/8/2014,8/1/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Springdales School, Education ,25900000,operating,IND,New Delhi,New Delhi,1,,,,,,4/9/2014,12/17/2013,0,0,0,0,0,0,0,25900000,0,0,0,0,0,0,0,0,0,0,0,0,0
+Springr, Curated Web , NA   ,operating,IND,Kochi,Kochi,1,,,,,,4/9/2014,12/15/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spunkmobile, Finance ,200000,,IND,Mumbai,Mumbai,1,,,,,,4/10/2014,1/1/2013,0,200000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SquareKey, Fashion , NA   ,operating,IND,Mumbai,Mumbai,1,,2010-01,1,2010-Q1,,4/15/2014,8/6/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Squeakee, Search , NA   ,,IND,Mumbai,Mumbai,1,,2012-04,2,2012-Q2,,4/15/2014,12/21/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Star Dental Centre, Dental ,20000000,operating,IND,New Delhi,New Delhi,1,,,,,,4/16/2014,10/9/2014,0,20000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Startup Freak, Startups ,"10,000",operating,IND,Bangalore,Bangalore,1,,2012-05,2,2012-Q2,,4/16/2014,5/25/2012,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Startup Village, Software ,24000000,operating,IND,Kochi,Kochi,1,,2012-01,1,2012-Q1,,4/16/2014,9/24/2013,0,24000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stayzilla, E-Commerce ,500000,operating,IND,Chennai,Chennai,2,,2005-01,1,2005-Q1,,4/22/2014,10/3/2013,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stockezy, Finance ,100000,operating,IND,Mumbai,Mumbai,1,,2008-08,3,2008-Q3,,4/22/2014,1/4/2011,0,0,0,0,0,0,100000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Storrz, Online Shopping ,100000,closed,IND,Bangalore,Bangalore,1,,2007-01,1,2007-Q1,,4/23/2014,1/1/2007,100000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+StyleCraze Beauty Care Pvt Ltd, Health and Wellness , NA   ,operating,IND,Hyderabad,Hyderabad,1,,2011-11,4,2011-Q4,,4/25/2014,8/3/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SuccessNexus.com, E-Commerce ,"75,000",operating,IND,Mumbai,Mumbai,1,,2010-09,3,2010-Q3,,4/28/2014,12/1/2010,75000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sudiksha, Education ,285000,operating,IND,Hyderabad,Hyderabad,2,,,,,,4/29/2014,7/2/2014,210000,75000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Suksh Tech., Software ,1500000,operating,IND,Bangalore,Bangalore,1,,2008-05,2,2008-Q2,,5/1/2014,5/1/2008,0,0,0,0,0,0,1500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sun Animatics, News , NA   ,operating,IND,Hyderabad,Hyderabad,1,,2014-06,2,2014-Q2,,5/1/2014,11/13/2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SunBorne Energy, Clean Technology ,43600000,operating,IND,New Delhi,Gurgaon,4,,2008-01,1,2008-Q1,,5/1/2014,6/20/2012,0,13100000,0,0,0,30500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SunRise Group of International Technology, Blogging Platforms ,200000,operating,IND,Jabalpur,Jabalpur,1,,2007-12,4,2007-Q4,,5/1/2014,12/20/2008,0,0,0,0,0,0,200000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SupportBee, Software ,"40,000",operating,IND,Bangalore,Bangalore,1,,2010-09,3,2010-Q3,,5/2/2014,11/1/2011,0,0,0,0,0,0,0,40000,0,0,0,0,0,0,0,0,0,0,0,0,0
+SureWaves, News ,5700000,operating,IND,Bangalore,Bangalore,1,,2006-09,3,2006-Q3,,5/2/2014,1/13/2014,0,5700000,0,0,0,0,0,0,0,0,0,0,0,0,5700000,0,0,0,0,0,0
+Surya Power Magic, Clean Technology ,500000,operating,IND,Coimbatore,Coimbatore,1,,,,,,5/5/2014,6/18/2014,0,0,0,0,0,0,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Suryoday Micro Finance, Banking ,4500000,operating,IND,Mumbai,Mumbai,1,,,,,,5/5/2014,6/16/2014,0,4500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sutures India, Manufacturing ,22900000,operating,IND,Bangalore,Bengaluru,1,,1992-01,1,1992-Q1,,5/5/2014,9/16/2013,0,22900000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swipe Telecom, News ,4976700,operating,IND,Pune,Pune,1,,,,,,5/6/2014,4/16/2014,0,4976700,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swizcom Technologies, Medical , NA   ,operating,IND,Bangalore,Bangalore,1,,2013-09,3,2013-Q3,,5/9/2014,11/8/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Symbiotec Pharmalab, Biotechnology ,48000000,operating,IND,Indore,Indore,1,,2002-01,1,2002-Q1,,5/10/2014,10/22/2013,0,48000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Taggle Internet Ventures Private, Games ,8750000,closed,IND,Bangalore,Bengaluru,1,,2010-01,1,2010-Q1,,5/12/2014,6/23/2010,0,8750000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TalentPad, Marketplaces , NA   ,operating,IND,New Delhi,New Delhi,1,,2014-02,1,2014-Q1,,5/13/2014,10/9/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TalentSprint Educational Services, Education ,4000000,operating,IND,Hyderabad,Hyderabad,1,,,,,,5/14/2014,4/25/2012,0,4000000,0,0,0,0,0,0,0,0,0,0,0,4000000,0,0,0,0,0,0,0
+Tanyas Jewelry, E-Commerce ,"10,000",operating,IND,Mumbai,Mumbai,1,,2013-04,2,2013-Q2,,5/15/2014,7/26/2013,10000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TastyKhana, E-Commerce ,5000000,acquired,IND,Pune,Pune,1,,2007-01,1,2007-Q1,,5/15/2014,6/13/2013,0,5000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TaxiForSure.com, Transportation ,44000000,operating,IND,Bangalore,Bangalore,4,,2011-06,2,2011-Q2,,5/17/2014,8/20/2014,0,44000000,0,0,0,0,0,0,0,0,0,0,0,4000000,10000000,30000000,0,0,0,0,0
+TaxiPixi, Travel , NA   ,operating,IND,New Delhi,New Delhi,1,,2012-01,1,2012-Q1,,5/20/2014,2/21/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Teabox, E-Commerce ,8000000,operating,IND,IND - Other,Darjeeling,3,,2012-07,3,2012-Q3,,5/23/2014,11/19/2014,1000000,7000000,0,0,0,0,0,0,0,0,0,0,0,7000000,0,0,0,0,0,0,0
+TeamLease Services, Consulting ,22500000,operating,IND,Bangalore,Bengaluru,1,,,,,,5/24/2014,4/5/2011,0,22500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Techmed Healthcare, Health and Wellness , NA   ,operating,IND,Chennai,Chennai,1,,2008-01,1,2008-Q1,,5/26/2014,12/9/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Techno Renewable Energy Systems India, Clean Technology ,"8,000",operating,IND,Hyderabad,Hyderabad,1,,2012-04,2,2012-Q2,,6/1/2014,10/20/2014,0,0,8000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tejas Networks India, Web Hosting ,15000000,operating,IND,Bangalore,Bangalore,1,,2000-01,1,2000-Q1,,6/1/2014,1/6/2005,0,15000000,0,0,0,0,0,0,0,0,0,0,0,0,0,15000000,0,0,0,0,0
+Tek Travels, Hotels , NA   ,operating,IND,New Delhi,Gurgaon,1,,,,,,6/4/2014,4/27/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TeleDNA, Mobile ,10490000,operating,IND,Bangalore,Bangalore,1,,2001-06,2,2001-Q2,,6/4/2014,11/6/2008,0,10490000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Telematics4u Services,,409299,operating,IND,Bangalore,Bangalore,1,,,,,,6/5/2014,8/1/2013,0,409299,0,0,0,0,0,0,0,0,0,0,0,409299,0,0,0,0,0,0,0
+TELiBrahma, Mobile ,2250000,operating,IND,Bangalore,Bangalore,3,,2004-01,1,2004-Q1,,6/6/2014,10/1/2011,0,2250000,0,0,0,0,0,0,0,0,0,0,0,250000,2000000,0,0,0,0,0,0
+Territorial Prescience, Software , NA   ,operating,IND,Bangalore,Bangalore,1,,2007-05,2,2007-Q2,,6/6/2014,5/11/2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Testbook.com, K-12 Education ,200000,operating,IND,Mumbai,Mumbai,1,,2013-04,2,2013-Q2,,6/13/2014,10/29/2014,0,200000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Textual Analytics Solutions, Analytics ,250000,operating,IND,Bangalore,Bangalore,1,,,,,,6/16/2014,6/18/2008,0,250000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Beer Café, Hospitality , NA   ,operating,IND,New Delhi,Gurgaon,1,,2012-03,1,2012-Q1,,6/16/2014,5/16/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Wadhwa Group, Real Estate ,24000000,operating,IND,Mumbai,Mumbai,1,,,,,,6/18/2014,9/30/2013,0,24000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ThinkLink, Consulting ,1600000,operating,IND,Haryana,Haryana,1,,2006-01,1,2006-Q1,,6/18/2014,1/7/2014,0,1600000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ThinkVidya, Consulting , NA   ,operating,IND,Bangalore,Bangalore,1,,2011-01,1,2011-Q1,,6/19/2014,1/30/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thrillophilia.com, Curated Web ,290000,operating,IND,Bangalore,Bangalore,3,,2009-05,2,2009-Q2,,6/19/2014,9/16/2013,90000,0,0,0,0,0,0,0,200000,0,0,0,0,0,0,0,0,0,0,0,0
+TicketGoose.com, Travel ,7413693,operating,IND,Chennai,Chennai,3,,2007-08,3,2007-Q3,,6/20/2014,3/27/2014,560000,6853693,0,0,0,0,0,0,0,0,0,0,0,2900000,3953693,0,0,0,0,0,0
+Tikona Digital Networks, Internet ,45000000,operating,IND,IND - Other,Bhandup,1,,2008-01,1,2008-Q1,,6/24/2014,11/17/2014,0,0,0,0,0,0,0,0,45000000,0,0,0,0,0,0,0,0,0,0,0,0
+Timesaverz.com, Service Providers , NA   ,operating,IND,Mumbai,Mumbai,1,,2013-01,1,2013-Q1,,6/25/2014,10/14/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TinyOwl Technology, Mobile ,1000000,operating,IND,Mumbai,Mumbai,1,,,,,,6/25/2014,8/22/2014,0,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TLabs, Consulting , NA   ,operating,IND,New Delhi,Noida,1,,2012-02,1,2012-Q1,,6/26/2014,6/10/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tonbo Imaging, Design ,6400000,operating,IND,Bangalore,Bangalore,1,,2012-01,1,2012-Q1,,6/27/2014,8/5/2013,0,6400000,0,0,0,0,0,0,0,0,0,0,0,6400000,0,0,0,0,0,0,0
+Tookitaki, Social Media ,425000,operating,IND,Kolkata,Kolkata,3,,2013-01,1,2013-Q1,,6/30/2014,7/25/2013,425000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Toppr, Education ,2000000,operating,IND,Mumbai,Mumbai,1,,2013-01,1,2013-Q1,,7/1/2014,5/24/2014,2000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Touchtalent, Social Media ,710000,operating,IND,New Delhi,New Delhi,2,,2012-04,2,2012-Q2,,7/3/2014,6/9/2014,0,0,0,710000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Touristlink, Travel ,"40,000",operating,IND,Nagpur,Nagpur,2,,2011-10,4,2011-Q4,,7/4/2014,10/4/2013,40000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tower Vision, Mobile ,300000000,operating,IND,Chennai,Chennai,1,,,,,,7/7/2014,2/1/2008,0,0,0,0,0,0,0,0,300000000,0,0,0,0,0,0,0,0,0,0,0,0
+TradeBriefs, Automotive , NA   ,operating,IND,Mumbai,Mumbai,1,,,,,,7/7/2014,7/31/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Traffline, Curated Web , NA   ,operating,IND,Mumbai,Mumbai,2,,2011-01,1,2011-Q1,,7/8/2014,10/1/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transerv, Mobile Payments , NA   ,operating,IND,Mumbai,Mumbai,1,,,,,,7/9/2014,7/7/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transparent IT Solutions, Software , NA   ,closed,IND,Vellore,Vellore,1,,2010-01,1,2010-Q1,,7/14/2014,1/1/2010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Travel Desiya, Travel ,100000,operating,IND,Ghaziabad,Ghaziabad,1,,2013-04,2,2013-Q2,,7/14/2014,4/2/2013,0,0,0,0,0,0,0,0,100000,0,0,0,0,0,0,0,0,0,0,0,0
+TravelKhana.Com, Online Shopping , NA   ,operating,IND,New Delhi,New Delhi,1,,2011-12,4,2011-Q4,,7/16/2014,10/4/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tribi Embedded Technologies Private, Hardware + Software ,1600000,operating,IND,Bangalore,Bengaluru,1,,,,,,7/16/2014,2/8/2008,0,1600000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TripHobo, Online Travel ,3500000,operating,IND,Pune,Pune,1,,2012-01,1,2012-Q1,,7/21/2014,6/30/2014,0,3500000,0,0,0,0,0,0,0,0,0,0,0,3500000,0,0,0,0,0,0,0
+Trivitron Healthcare, Biotechnology ,24500060,operating,IND,Chennai,Chennai,2,,,,,,7/22/2014,12/10/2013,0,24500000,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0
+TunePatrol, Music ,"20,000",operating,IND,Bangalore,Bangalore,1,,2012-03,1,2012-Q1,,7/23/2014,8/1/2012,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tushky, Entertainment ,340000,operating,IND,Bangalore,Bangalore,5,,2011-09,3,2011-Q3,,7/24/2014,9/2/2013,65000,0,0,0,0,0,275000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TutorVista.com, Education ,80750000,operating,IND,Bangalore,Bangalore,4,,2005-09,3,2005-Q3,,7/26/2014,9/24/2010,0,80750000,0,0,0,0,0,0,0,0,0,0,0,2000000,10750000,0,50000000,0,0,0,0
+TVS Logistics Services, Manufacturing ,53000000,operating,IND,Chennai,Chennai,1,,,,,,7/28/2014,4/21/2012,0,53000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UDeserve Technologies, Software , NA   ,operating,IND,Madurai,Madurai,1,,2012-08,3,2012-Q3,,8/1/2014,10/17/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+uFaber, Education ,"60,532",operating,IND,Mumbai,Mumbai,1,,,,,,8/5/2014,12/9/2013,60532,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+unamia, E-Commerce ,1200000,operating,IND,Bangalore,Bangalore,1,,2012-01,1,2012-Q1,,8/6/2014,10/17/2012,1200000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unbxd, E-Commerce ,2030000,operating,IND,Bangalore,Bangalore,2,,2011-10,4,2011-Q4,,8/6/2014,2/1/2014,30000,2000000,0,0,0,0,0,0,0,0,0,0,0,2000000,0,0,0,0,0,0,0
+Unicommerce eSolutions Pvt. Ltd., Retail Technology ,10000000,operating,IND,New Delhi,New Delhi,1,,2012-02,1,2012-Q1,,8/7/2014,11/7/2014,0,10000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Uniphore, Software , NA   ,operating,IND,IND - Other,Taramani,1,,2008-01,1,2008-Q1,,8/8/2014,3/13/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+United Mobile Apps, Synchronization ,1200000,operating,IND,Bangalore,Bangalore,2,,2009-03,1,2009-Q1,,8/10/2014,4/26/2012,0,1000000,0,0,0,0,200000,0,0,0,0,0,0,1000000,0,0,0,0,0,0,0
+Unnati Silks Pvt Ltd, Wholesale ,3500000,operating,IND,Chennai,Chennai,1,,1980-01,1,1980-Q1,,8/11/2014,5/1/2012,0,3500000,0,0,0,0,0,0,0,0,0,0,0,3500000,0,0,0,0,0,0,0
+Unocoin, Financial Exchanges , NA   ,operating,IND,IND - Other,Tumkur,1,,2013-01,1,2013-Q1,,8/12/2014,8/11/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unspun Consulting Group, Consulting ,250000,operating,IND,Bangalore,Bangalore,1,,2013-01,1,2013-Q1,,8/14/2014,3/13/2014,0,0,0,0,0,0,250000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Urban Ladder, Home Decor ,27000000,operating,IND,Bangalore,Bangalore,3,,2012-07,3,2012-Q3,,8/18/2014,7/15/2014,0,27000000,0,0,0,0,0,0,0,0,0,0,0,6000000,21000000,0,0,0,0,0,0
+Utkarsh Micro Finance, Finance ,19240000,operating,IND,IND - Other,Varanasi,3,,,,,,8/19/2014,12/20/2013,0,7240000,0,0,0,12000000,0,0,0,0,0,0,0,0,3640000,0,0,0,0,0,0
+Value and Budget Housing Corporation, Real Estate ,26000000,operating,IND,Bangalore,Bengaluru,1,,,,,,8/20/2014,8/28/2011,0,0,0,0,0,0,0,0,26000000,0,0,0,0,0,0,0,0,0,0,0,0
+ValueFirst Messaging, Messaging ,15300000,operating,IND,Haryana,Haryana,1,,,,,,8/20/2014,2/4/2011,0,15300000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Valyoo Technologies, Fashion ,10000000,operating,IND,New Delhi,New Delhi,1,,,,,,8/22/2014,2/8/2013,0,10000000,0,0,0,0,0,0,0,0,0,0,0,10000000,0,0,0,0,0,0,0
+Vardhman Textiles, Fashion ,5000000,operating,IND,Ludhiana,Ludhiana,1,,1973-01,1,1973-Q1,,8/22/2014,7/17/2013,0,5000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Varthana, Finance , NA   ,operating,IND,Bangalore,Bangalore,1,,2013-01,1,2013-Q1,,8/25/2014,5/9/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vaultize, SaaS , NA   ,operating,IND,Pune,Pune,1,,2010-01,1,2010-Q1,,8/26/2014,7/10/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VAYAVYA LABS, Software ,1330000,operating,IND,Belgaum,Belgaum,2,,2006-07,3,2006-Q3,,8/27/2014,7/1/2011,330000,0,0,0,0,0,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vectus Industries, Manufacturing ,16000000,operating,IND,New Delhi,Noida,1,,,,,,8/28/2014,6/19/2014,0,16000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vedantu, Tutoring ,550000,operating,IND,Bangalore,Bangalore,2,,2011-09,3,2011-Q3,,8/31/2014,7/25/2013,550000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vee, Software ,1000000,operating,IND,New Delhi,Noida,1,,2014-01,1,2014-Q1,,9/1/2014,11/6/2014,0,1000000,0,0,0,0,0,0,0,0,0,0,0,1000000,0,0,0,0,0,0,0
+Velvetcase, E-Commerce ,1000000,operating,IND,Mumbai,Mumbai,1,,,,,,9/1/2014,11/24/2014,0,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Venture Infotek Global Private, Software ,20000000,acquired,IND,Mumbai,Mumbai,1,,1997-01,1,1997-Q1,,9/1/2014,11/20/2007,0,20000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Versant Online Solutions, Events ,1000000,operating,IND,Hyderabad,Hyderabad,1,,,,,,9/2/2014,6/26/2014,0,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Videofropper, Video , NA   ,closed,IND,Kolkata,Kolkata,1,,2007-09,3,2007-Q3,,9/2/2014,1/1/2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Videonetics Technologies, Video Streaming , NA   ,operating,IND,Kolkata,Kolkata,1,,,,,,9/3/2014,6/25/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+videScreen Networks, Video ,"30,000",closed,IND,Mumbai,Mumbai,1,,2010-02,1,2010-Q1,,9/4/2014,1/15/2010,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VIDTEQ India,,360183,operating,IND,Bangalore,Bangalore,1,,2008-05,2,2008-Q2,,9/7/2014,6/1/2011,0,360183,0,0,0,0,0,0,0,0,0,0,0,360183,0,0,0,0,0,0,0
+Viedea, Finance , NA   ,operating,IND,Bangalore,Bangalore,1,,2007-01,1,2007-Q1,,9/8/2014,1/1/2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vignyan Consultancy Services, Consulting ,"6,000",operating,IND,Bangalore,Bangalore,1,,2012-10,4,2012-Q4,,9/9/2014,9/25/2013,0,0,0,0,6000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vigor Pharma, Medical , NA   ,operating,IND,Mumbai,Mumbai,1,,2012-03,1,2012-Q1,,9/10/2014,9/8/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Village Laundry Service, Finance , NA   ,closed,IND,Mumbai,Mumbai,2,,2008-01,1,2008-Q1,,9/10/2014,6/21/2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Villgro Innovation Marketing, Clean Technology ,200000,operating,IND,Chennai,Chennai,2,,2010-01,1,2010-Q1,,9/11/2014,4/1/2012,200000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vimagino, Internet ,"85,000",operating,IND,Bangalore,Bangalore,1,,2009-02,1,2009-Q1,,9/12/2014,4/1/2010,85000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Viraliti, Social Media Advertising ,"20,000",operating,IND,New Delhi,Noida,1,,2012-08,3,2012-Q3,,9/16/2014,8/6/2012,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vistaar, Entrepreneur ,27315200,operating,IND,Bangalore,Bengaluru,1,,2012-01,1,2012-Q1,,9/16/2014,5/26/2014,0,27315200,0,0,0,0,0,0,0,0,0,0,0,0,0,27315200,0,0,0,0,0
+Vizury, Advertising ,27000000,operating,IND,Bangalore,Bangalore,3,,2008-12,4,2008-Q4,,9/18/2014,6/12/2014,0,27000000,0,0,0,0,0,0,0,0,0,0,0,2000000,9000000,16000000,0,0,0,0,0
+Voonik.com, Lifestyle ,500000,operating,IND,Bangalore,Bengaluru,1,,2013-01,1,2013-Q1,,9/19/2014,2/1/2014,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+voxapp, Big Data Analytics , NA   ,operating,IND,New Delhi,New Delhi,2,,2012-01,1,2012-Q1,,9/19/2014,8/26/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VoxPop Clothing, E-Commerce ,1000000,operating,IND,Mumbai,Mumbai,2,,2013-04,2,2013-Q2,,9/22/2014,11/14/2014,1000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Voylla Retail Pvt. Ltd., E-Commerce , NA   ,operating,IND,Bangalore,Bangalore,1,,2012-05,2,2012-Q2,,9/24/2014,10/23/2012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vserv, Big Data ,7000000,operating,IND,Mumbai,Mumbai,2,,2010-01,1,2010-Q1,,9/25/2014,1/1/2013,0,7000000,0,0,0,0,0,0,0,0,0,0,0,3000000,4000000,0,0,0,0,0,0
+Vyome Biosciences, Life Sciences ,12300000,operating,IND,Delhi,Delhi,3,,,,,,9/29/2014,8/12/2014,1000000,11300000,0,0,0,0,0,0,0,0,0,0,0,3300000,8000000,0,0,0,0,0,0
+Walden's Path, Education ,250000,operating,IND,Hyderabad,Hyderabad,1,,,,,,10/5/2014,4/1/2014,250000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wazzat, Apps ,"30,000",operating,IND,Hyderabad,Hyderabad,1,,2014-01,1,2014-Q1,,10/6/2014,10/28/2014,30000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wealth India Financial Services, Finance ,4412000,operating,IND,Chennai,Chennai,2,,,,,,10/8/2014,4/1/2012,642000,3770000,0,0,0,0,0,0,0,0,0,0,0,3770000,0,0,0,0,0,0,0
+WeAreHolidays, Travel , NA   ,operating,IND,New Delhi,New Delhi,2,,2011-03,1,2011-Q1,,10/9/2014,8/5/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Webchutney, Advertising , NA   ,operating,IND,New Delhi,New Delhi,1,,,,,,10/9/2014,10/4/2007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Welcare, Health and Wellness ,100000,operating,IND,Chennai,Chennai,1,,,,,,10/9/2014,12/17/2013,100000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Welspun Energy, Clean Technology ,72500000,operating,IND,New Delhi,New Delhi,2,,2002-01,1,2002-Q1,,10/9/2014,6/24/2014,0,0,0,0,0,22500000,0,0,50000000,0,0,0,0,0,0,0,0,0,0,0,0
+Wheebox, Employment , NA   ,operating,IND,New Delhi,Gurgaon,1,,2011-04,2,2011-Q2,,10/10/2014,7/25/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WhistleTalk, Enterprise Software ,450000,operating,IND,Bangalore,Bangalore,1,,2012-01,1,2012-Q1,,10/10/2014,8/9/2012,0,450000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wifinity Technology, Clean Technology ,100000,operating,IND,Bangalore,Bangalore,2,,2010-04,2,2010-Q2,,10/13/2014,6/24/2013,100000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+wildcraft, E-Commerce , NA   ,operating,IND,Bangalore,Bangalore,1,,1992-01,1,1992-Q1,,10/14/2014,12/17/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wings Intellect, Games ,500000,operating,IND,Mumbai,Mumbai,1,,2011-11,4,2011-Q4,,10/14/2014,11/1/2011,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wishberg, Social Media ,150000,operating,IND,Mumbai,Mumbai,1,,2012-11,4,2012-Q4,,10/17/2014,10/18/2013,150000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wishberry, Crowdfunding ,652688,operating,IND,Mumbai,Mumbai,1,,2011-01,1,2011-Q1,,10/20/2014,10/21/2014,0,652688,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wits Solutions Pvt. Ltd., Mobile Enterprise ,"50,000",operating,IND,Bangalore,Bangalore,1,,2013-10,4,2013-Q4,,10/20/2014,1/8/2014,50000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Xamcheck, Education ,1800000,operating,IND,Secunderabad,Secunderabad,1,,2009-01,1,2009-Q1,,10/20/2014,10/30/2014,0,1800000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Xamplified, Education , NA   ,operating,IND,New Delhi,New Delhi,1,,2009-02,1,2009-Q1,,10/21/2014,2/1/2008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Xcode Life Sciences, Diabetes ,200000,operating,IND,Chennai,Chennai,1,,2010-01,1,2010-Q1,,10/25/2014,7/26/2013,0,0,0,0,0,0,200000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Xerico Technologies, Mobile , NA   ,operating,IND,New Delhi,New Delhi,1,,2011-07,3,2011-Q3,,10/27/2014,7/23/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+XIVE Group, Retail ,"20,000",operating,IND,Hyderabad,Hyderabad,1,,,,,,10/27/2014,9/13/2013,20000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+XSI Semi Conductors, Semiconductors , NA   ,operating,IND,Bangalore,Bangalore,1,,,,,,10/28/2014,1/7/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yatra, Travel ,45000000,operating,IND,New Delhi,Gurgaon,4,,2006-08,3,2006-Q3,,10/28/2014,4/16/2014,0,45000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ybrant Digital, Advertising ,103000000,operating,IND,Hyderabad,Hyderabad,3,,1999-01,1,1999-Q1,,10/29/2014,1/18/2011,0,103000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yebhi, Shoes ,40180000,operating,IND,New Delhi,Gurgaon,4,,2009-01,1,2009-Q1,,10/29/2014,4/25/2013,0,40180000,0,0,0,0,0,0,0,0,0,0,0,1180000,9000000,18000000,0,0,0,0,0
+yepme.com, Online Shopping ,500000,operating,IND,New Delhi,Gurgaon,1,,2010-01,1,2010-Q1,,10/29/2014,5/2/2014,0,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+YourNextLeap, Education , NA   ,operating,IND,Pune,Pune,1,,,,,,10/29/2014,8/18/2011,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zapstitch, Web Tools ,100000,operating,IND,Bangalore,Bangalore,2,,2013-01,1,2013-Q1,,10/30/2014,5/24/2014,100000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zaya, Social Network Media , NA   ,operating,IND,Mumbai,Mumbai,1,,2013-01,1,2013-Q1,,10/30/2014,5/20/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zee Learn, Education ,20000000,operating,IND,Mumbai,Mumbai,1,,2010-01,1,2010-Q1,,10/30/2014,5/21/2013,0,20000000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zepo, E-Commerce ,190000,operating,IND,Mumbai,Mumbai,1,,2011-06,2,2011-Q2,,10/31/2014,9/1/2014,190000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ziffi, Healthcare Services ,2400000,operating,IND,Hyderabad,Hyderabad,1,,,,,,11/1/2014,9/29/2014,0,2400000,0,0,0,0,0,0,0,0,0,0,0,2400000,0,0,0,0,0,0,0
+Zify, Social Network Media ,"16,600",operating,IND,Hyderabad,Hyderabad,1,,2014-03,1,2014-Q1,,11/5/2014,5/14/2014,16600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zipdial, Mobile , NA   ,operating,IND,Bangalore,Bangalore City,3,,2010-03,1,2010-Q1,,11/6/2014,4/15/2013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zippr, Utilities ,982000,operating,IND,Hyderabad,Hyderabad,1,,2013-01,1,2013-Q1,,11/7/2014,10/9/2014,982000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ziqitza Health Care, Healthcare Services ,5750000,operating,IND,Mumbai,Mumbai,2,,2005-03,1,2005-Q1,,11/8/2014,3/26/2010,0,5750000,0,0,0,0,0,0,0,0,0,0,0,1500000,4250000,0,0,0,0,0,0
+Ziva Software, Mobile ,1700000,closed,IND,Bangalore,Bangalore,1,,2005-01,1,2005-Q1,,11/10/2014,3/14/2007,0,1700000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zivame.com, Internet ,9000000,operating,IND,Bangalore,Bangalore,2,,2011-05,2,2011-Q2,,11/13/2014,12/10/2013,0,9000000,0,0,0,0,0,0,0,0,0,0,0,3000000,6000000,0,0,0,0,0,0
+Zomato, Restaurants , NA   ,operating,IND,New Delhi,Gurgaon,6,,2008-07,3,2008-Q3,,11/13/2014,11/18/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+zoogaad,,500000,operating,IND,Jodhpur,Jodhpur,1,,2014-03,1,2014-Q1,,11/17/2014,5/10/2014,500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+zoojoo.BE, Software , NA   ,,IND,Bangalore,Bangalore,1,,2012-01,1,2012-Q1,,11/20/2014,5/15/2014,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoom, Consumers ,1600000,operating,IND,Bangalore,Bangalore,1,,,,,,11/24/2014,10/4/2013,1600000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ZoomCar India, Transportation ,10900000,operating,IND,Bangalore,Bangalore,4,,2012-01,1,2012-Q1,,11/24/2014,10/31/2014,1000000,8000000,0,0,1900000,0,0,0,0,0,0,0,0,8000000,0,0,0,0,0,0,0
+Zoomin.com, Curated Web ,21500000,operating,IND,Mumbai,Mumbai,3,,2007-05,2,2007-Q2,,11/25/2014,8/29/2014,0,20000000,0,0,0,1500000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zoutons, E-Commerce ,3300000,operating,IND,New Delhi,New Delhi,1,,2013-01,1,2013-Q1,,11/26/2014,9/6/2013,3300000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zumbl, Entertainment ,140000,operating,IND,New Delhi,Gurgaon,3,,2012-11,4,2012-Q4,,11/28/2014,4/5/2014,140000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zuvvu, Advertising ,"12,000",closed,IND,Ahmedabad,Ahmadabad,1,,2010-06,2,2010-Q2,,12/1/2014,11/1/2011,12000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
